@@ -1,0 +1,246 @@
+<!--<style>
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+</style>-->
+<html>
+    <head>
+        <title>Help File</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../../bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="../../css_old/font-awesome.css">
+        <link rel="stylesheet" href="../../css/help.css">
+        <script src="../../js/jQuery-2.1.4.min.js"></script>
+        <script src="../../js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <br>
+        <div class="container">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <div class="panel-title text-success text-center">Payment Verification Help</div>
+                </div>
+                <!--<div class="panel-body">
+                    <li class="list-group-item text-center text-success" style="font-size: larger">
+                        Main Functionality covered by Payment:
+                    </li> 
+                </div>-->
+              
+                
+                <div class="panel-body">
+                    <div class="panel panel-danger" style="border:2px solid black">
+                        <div class="panel-heading">
+                            <div class="panel-title text-center">
+                                <b> Main Functionality covered by Payment: </b>
+                            </div>
+                        </div>
+                        <div class="panel-body">
+                            <ol class="list-group">    
+                                <li class="list-group-item text-center" style="font-size: larger">
+                                    <b><span class="fa fa-hand-o-right"></span><span class="text-danger"> Payment</span>: To view the payment which is already paid.</b>
+                                </li>
+                                <li class="list-group-item text-center " style="font-size: larger">
+                                    <b><span class="fa fa-hand-o-right"></span><span class="text-danger"> New Payment Entry (offline Payment Modes)</span>: Payment done at office counter.</b>
+                                </li>
+
+                                <li class="list-group-item text-center " style="font-size: larger">
+                                    <b><span class="fa fa-hand-o-right"></span><span class="text-danger"> Payment Verification (Online Payment Modes)</span>: To verify online payments.</b>
+                                </li>
+
+                                <li class="list-group-item text-center " style="font-size: larger">
+                                    <b><span class="fa fa-hand-o-right"></span><span class="text-danger"> View Summary 1</span>: To  view summary 1 report.</b>
+                                </li>
+
+                                <li class="list-group-item text-center " style="font-size: larger">
+                                    <b><span class="fa fa-hand-o-right"></span><span class="text-danger"> Payment Receipt</span>: To view the receipt copy.</b>
+                                </li>
+
+                                <li class="list-group-item text-center " style="font-size: larger">
+                                    <b><span class="fa fa-hand-o-right"></span><span class="text-danger"> New Payment Heading</span>: To add  New Payment Heading or  to increase in fee amount.</b>
+                                </li>
+                                <li class="list-group-item text-center " style="font-size: larger">
+                                    <b><span class="fa fa-hand-o-right"></span><span class="text-danger">Adjustment Amount</span>: Amount adjusted  by fee exemptions or from old document.</b>
+                                </li>
+                            </ol> 
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="panel-body">
+                     <div class="panel panel-danger" style="border:1px solid black">
+                    <ol class="list-group">         
+                        <li class="list-group-item text-center text-danger" style="font-size: x-large">
+                            <b><span class="fa fa-hand-o-right"></span> Payment</b>
+                        </li>
+                        <!--<li class="list-group-item text-center" style="font-size:larger">
+                            <b> To view the payment which is already paid.</b>
+                        </li>-->
+                        <li class="list-group-item text-center text-success" style="font-size: larger">
+
+                            This amount is entered from  <strong>New Payment Entry 
+                                or Payment Verification</strong>  is available under Payment 
+                            and along with details shown like  Amount to be paid, paid amount and 
+                            balance amount along with its grand total and Payment head wise.
+                        </li>
+                        <li class="list-group-item text-center text-success" style="font-size: larger">
+                            Amount entered from <strong> New Payment entry </strong>
+                            will  not be verified as it is offline payment mode and so 
+                            edit and delete functionality provided.
+                        </li>
+                        <li class="list-group-item text-center text-success" style="font-size: larger">
+                            Amount entered from <strong> Payment Verification </strong>
+                            is verified as it is online payment mode and  so 
+                            edit and delete functionality not available.
+                        </li>
+                    </ol> 
+                     </div>
+                    <div class="panel panel-danger" style="border:1px solid black">
+                    <ol class="list-group"> 
+                        <li class="list-group-item text-center text-danger" style="font-size: x-large"><b><span class="fa fa-hand-o-right"></span> New Payment Entry(offline Payment Modes):</b></li>
+
+                        <!-- <li class="list-group-item text-center" style="font-size:larger">
+                             <b> Payment done at office counter.</b>
+                         </li>-->
+
+                        <li class="list-group-item text-center text-success" style="font-size: larger">
+                            New Payment Entry is the payment done at office counter,
+                            here entire Fee details provided according to various payment head 
+                            in right handside tabular format which will be
+                            more convinient to user to do Payment Process.
+                            The offline payment mode(Ex:stamp paper,Demand 
+                            Draft/cheque,Cash,Bank Challan) are available.
+
+                        </li>
+                        <li class="list-group-item text-center text-success" style="font-size: larger">
+                            <strong>Requirements of Offline Payment modes are </strong>
+                            <ol class="list-group-item text-center" style="font-size: medium">
+                                <strong> 1.Stamp paper :</strong> Stamp Number,Purchase Date,Amount,Account Head.
+                            </ol>
+                            <ol class="list-group-item text-center" style="font-size: medium">
+                                <strong>2.Demand Draft(DD)/Cheque:</strong>
+                                Bank Name,Bank Branch Name,DD Number,IFSC Code,Payment Date,Amount,Account Head.
+                            </ol>
+                            <ol class="list-group-item text-center" style="font-size: medium">
+                                <strong>3.Cash:</strong>
+                                Payment Date,Amount,Account Head.
+                            </ol>
+                            <ol class="list-group-item text-center" style="font-size: medium"> 
+                                <strong>4.Bank Challan:</strong>
+                                Bank Name,Challan Date,Challan Amount,Bank Transaction Id,Account Head.
+                            </ol>
+                            <ol class="list-group-item text-center" style="font-size: medium">
+                                If saved through Offline payment mode then Edit and Delete functionality is avaialble.
+                            </ol>
+                        </li>
+                    </ol>
+                    </div>
+                    <div class="panel panel-danger" style="border:1px solid black">
+                    <ol class="list-group">                         
+                        <li class="list-group-item text-center text-danger" style="font-size: x-large">
+                            <b><span class="fa fa-hand-o-right"></span>
+                                Payment Verification (Online Payment Modes):
+                            </b>
+                        </li>
+                        <!--<li class="list-group-item text-center" style="font-size:larger">
+                            <b> To verify online payments.</b>
+                        </li>-->
+
+                        <li class="list-group-item text-center text-success" style="font-size: larger">
+                            Online Payment Mode  is to verify online payments and 
+                            verification process is completed by using an electronic medium like E-Stamp,E-Registration,
+                            and GRAS which are verified and configured state wise.
+                            The  online payment like GRAS/E-stamp   
+                            which is verified through web service and added.Further
+                            it is automatically defaced/locked  after completion of STAMP-2/STEP-2 of Registration Process.
+                        </li>
+                        <li class="list-group-item text-center text-success" style="font-size: larger">
+                            <strong>Requirements of Online Payment modes which are Verified: </strong>
+                            <ol class="list-group-item text-center" style="font-size: medium">
+                                <strong> 1.E-stamp:</strong> 
+                                e-Stamp Issue Date,Certificate Number->Here if verified then appears on the first tab i.e Payment 
+                            </ol>
+                            <ol class="list-group-item text-center" style="font-size: medium">
+                                <strong>2.E-Registration:</strong>
+                                Certificate Number.
+                            </ol>
+                            <ol class="list-group-item text-center" style="font-size: medium">
+                                <strong>3.GRAS:</strong>
+                                GRN Number,GRN Date,GRN Amount
+                            </ol>
+                            <ol class="list-group-item text-center" style="font-size: medium">
+                                If saved through 
+                                Online payment mode then Edit and Delete functionality is disabled.
+                            </ol>
+                        </li> 
+                    </ol> 
+                    </div>
+                    <div class="panel panel-danger" style="border:1px solid black">
+                    <ol class="list-group"> 
+                        <li class="list-group-item text-center text-danger" style="font-size: x-large">
+                            <b>
+                                <span class="fa fa-hand-o-right"></span> View Summary 1
+                            </b>
+                        </li>
+                        <!--<li class="list-group-item text-center text-danger" style="font-size:larger">
+                            <b> To  view summary 1 report.</b>
+                        </li>-->
+                        <li class="list-group-item text-center text-success" style="font-size: larger">
+                            Click on <strong>View Summary 1</strong> to view Document Registration View Summary 1 Report.
+                        </li>
+                    </ol> 
+                    </div>
+                    <div class="panel panel-danger" style="border:1px solid black">
+                    <ol class="list-group"> 
+                        <li class="list-group-item text-center text-danger" style="font-size: x-large">
+                            <b>
+                                <span class="fa fa-hand-o-right"></span> Payment Receipt
+                            </b>
+                        </li>
+
+                        <!--<li class="list-group-item text-center text-danger" style="font-size:larger">
+                            <b> To view the receipt copy.</b>
+                        </li>-->
+                        <li class="list-group-item text-center text-success" style="font-size: larger">
+                            Click on <strong>Payment Receipt</strong>
+                            to view the receipt copy,and this Payment Receipt available as original
+                            and customer copy  for download and print format too. 
+                        </li>
+                    </ol> 
+                    </div>
+                    <div class="panel panel-danger" style="border:1px solid black">
+                    <ol class="list-group"> 
+                        <li class="list-group-item text-center text-danger" style="font-size: x-large">
+                            <b>
+                                <span class="fa fa-hand-o-right"></span> New Payment Heading
+                            </b>
+                        </li>
+                        <li class="list-group-item text-center text-success" style="font-size: larger">
+                            To add  New Payment Heading or  to increase in 
+                            fee amount. 
+                        </li>
+                    </ol> 
+                    </div>
+                    <div class="panel panel-danger" style="border:1px solid black">
+                    <ol class="list-group"> 
+                        <li class="list-group-item text-center text-danger" style="font-size: x-large">
+                            <b><span class="fa fa-hand-o-right"></span> Adjustment Amount</b>
+                        </li>
+                        <li class="list-group-item text-center text-success" style="font-size: larger">
+                            Adjustment Amount is nothing but the amount which is 
+                            adjusted by fee exemptions or adjusted amount from old document,Here SRO can
+                            remove/delete this added adjustment amount
+                            in any of the cases observed invalid.
+                        </li>
+                    </ol> 
+                    </div>
+                </div>
+            </div> 
+        </div>
+    </body>
+</html>

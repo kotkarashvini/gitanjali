@@ -1,0 +1,1 @@
+<?php echo $this->element('Citizenentry/property_fields'); ?>

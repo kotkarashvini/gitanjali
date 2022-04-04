@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Help File</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../../css/bootstrap.min.css">
+        <link rel="stylesheet" href="../../css_old/font-awesome.css">
+        <link rel="stylesheet" href="../../css/help.css">
+        <script src="../../js/jQuery-2.1.4.min.js"></script>
+        <script src="../../js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <br>
+        <div class="container">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <div class="panel-title"><strong>Valuation Rule Help</strong></div>
+                </div>
+                <div class="panel-body">
+                    <ol class="list-group">
+                        <b><li class="list-group-item">Add Valuation Rule</li></b>
+                        <li class="list-group-item">Click On Create New Rule</li>            
+                        <b><li class="list-group-item">Edit Valuation Rule</li></b>
+                        <li class="list-group-item">For edit purpose select the record from the grid on clicking the edit button of the correpondent record</li>
+                        <li class="list-group-item">The data will be available for edit purpose make the required changes and update it</li>
+                        <b><li class="list-group-item">Delete Valuation Rule</li></b>
+                        <li class="list-group-item">For Deleting any of Office select the delete button of corresponding record from grid.</li>
+                        <li class="list-group-item">It will ask you for surity of deletion if yes then it will be deleted.</li>
+                        <br><li class="list-group-item"><strong>For Ex.--></strong> <br>
+                        <br><b>Description</b> –User can add rules as per requirement of the state. These rules will be available at the time of valuation. <br>Rules, when applied, will use location wise usage category wise rates from rate chart. 
+<br>Valuation rules will take care of conditions & formula dependent upon property item values & dependency attributes like depreciation, construction type, road vicinity & dependent locations
+<br>• Location, usage category & land types are  to be considered for rule creation
+<br>• Depreciation  & construction type would be considered separately. 
+<br>• Rules will be mapped with property items .
+<br><br><strong>Post conditions</strong><br>
+The creations and pupations of valuation rules can be done using this function &then made available to NGDRS.
+<br><br><strong>Rule formation Example</strong><br>
+How to define rule for  valuation of Residential building with Tenant
+<br>• Usage Type: Non Agri. Open & Built Land  Residential building with Tenant
+<br>• Construction Type: RCC Pucca
+<br>• Age: 2 to 5 years
+<br>• Property items: Land area-A, FSI-B, Area occupied by tenants-C, monthly rent by tenant -D, area occupied by owner-E, Rate -RRR	
+<br>These are valuation property items required at the time of calculation.
+<br>These items are linked with usage type 
+<br>Non Agri. Open & Built Land  Residential building with Tenant
+
+<br><br><strong>Rule</strong>	
+<br>• Condition  1-------->	C > A*B 
+<br>• Formula 1     -------->	16*7*D
+<br>• Condition  2-------->	C < =A*B 
+<br>• Formula 2     --------> (16*7*D)+(A*B-C-E)*RRR*.95
+</li>
+                    </ol> 
+                </div>
+            </div> 
+        </div>
+    </body>
+</html>

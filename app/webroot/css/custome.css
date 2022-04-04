@@ -1,0 +1,710 @@
+
+
+#el{
+
+     background: url('../img/images/external1.png') no-repeat ;
+     background-size: cover;
+/*     background-color: red;*/
+} 
+
+#t{
+    
+     background: url('../img/images/title8.png') no-repeat ;
+     border-bottom: 1px solid black;
+     background-size:cover;
+    
+    
+}
+
+#contact h2{
+    
+ font-family: 'Roboto', sans-serif;
+}
+
+
+
+/* ----------- Main section -------------*/
+.fa-user{
+
+   
+    margin-top: 3%;
+    
+    
+}
+.fa-users{
+
+   
+    margin-top: 3%;
+}
+
+
+#one{
+
+    border: 1px solid #dad8d8;
+/*    background-color: #f2f1f1;*/
+    background: url('../img/images/bg5.png') no-repeat ;
+    background-size:cover;
+ }
+
+ #one h5{
+
+    margin-top: 3%;
+    color: #1D2951;
+  
+ }
+
+ #lgin{
+
+    margin-left: 50%;
+    margin-top: 5%;
+ }
+
+ #rgis{
+
+    margin-top: 5%;
+ }
+
+ #faq{
+
+    color: #003366;
+    font-size: 13px;
+    padding-top: 10px;
+ }
+
+ #faq:hover{
+
+    color: #d2c102;
+ }
+
+ #two{
+
+    border: 1px solid #dad8d8;
+/*    background-color: #f2f1f1;*/
+     background: url('../img/images/bg8.png') no-repeat ;
+    background-size:cover;
+ }
+ #two h5{
+
+    margin-top: 3%;
+    color: #1D2951;
+  
+ }
+ #org{
+
+    margin-left: 39%;
+    margin-top: 2.2%;
+ }
+
+
+#main{
+
+    margin-top: 1%;
+}
+
+/* ----------- Main section end -------------*/
+
+/*--------- Marquee--------------------------*/
+#message{
+
+    background: rgb(255, 189, 131);
+    color: rgb(116, 54, 0);
+    font-weight: bold;
+    margin-top: 0.3%;
+    display: block;
+    
+}
+/*--------------- Marquee End--------------*/
+
+/*-------------- Slider----------------*/
+
+#banner{
+
+    margin-top: 0.3%;
+}
+
+/*-------------- Slider end----------------*/
+
+/*-------------- Footer----------------*/
+#myFooter {
+    background-color: #202021;
+    color: white;
+   /*  padding-top: 20px; */
+    margin-top: 1%;
+}
+
+#map-container {
+    height: 240px;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#myFooter .row {
+    margin: 0 85px;
+}
+
+#myFooter .footer-copyright {
+    background-color: #131414;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+#myFooter .footer-copyright p {
+    margin: 10px;
+    color: #ccc;
+}
+
+#myFooter .container {
+    width: auto;
+}
+
+#myFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+#myFooter h5 {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#myFooter a {
+    color: #d2d1d1;
+    text-decoration: none;
+}
+
+#myFooter a:hover,
+#myFooter a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+#myFooter .social-networks {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+
+#myFooter .social-networks p{
+
+    font-size: 12px;
+}
+
+#myFooter .social-networks p a{
+    
+    color: yellow;
+}
+
+#myFooter .fa {
+    font-size: 30px;
+    margin-right: 15px;
+    margin-left: 20px;
+    background-color: white;
+    color: #182c39;
+    border-radius: 51%;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 31px;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+/*-------------- Footer end ----------------*/
+
+/*--------- Menu -------- */
+
+#main-menu{
+    
+    border-top: solid 1px black;
+ 
+}
+
+
+.main-menu {
+  display:block;
+  position:relative;
+/*  background:#f2f3f4 */
+     
+}
+.container-menu {
+  width:80%;
+  margin:0 auto;
+}
+.main-menu:before,.main-menu:after{
+ /* display: table; */
+  line-height: 0;
+  content: "";
+}
+.core-menu {
+  text-align:center;
+  font:normal normal normal 1em/1 Roboto, sans-serif;
+  overflow:hidden;
+}
+.core-menu li {
+  list-style:none;
+  display:inline-block;
+  cursor:pointer;
+}
+.core-menu li a {
+  display:inline-block;
+  padding:1em;
+  color: black;
+  text-decoration: none;
+}
+.core-menu li a:hover {
+  background:#38a201;
+}
+
+.dropdown {
+  position:absolute;
+  width:230px;
+  background:#1a1a1a;
+  text-align:left;
+  display:none;
+  z-index: 9;
+}
+.dropdown li {
+  display:block;
+  }
+.dropdown li a {
+  display:block;
+  color: white;
+}
+.dropdown2 {
+  position:absolute;
+  width:230px;
+  background:#2d2d2d;
+  text-align:left;
+  display:none;
+  right:-100%;
+  top:0;
+}
+.dropdown2 li {
+  display:block;
+  }
+.dropdown2 li a {
+  display:block;
+}
+li span.toggle2 {
+  position:absolute;
+  right:0;
+  margin-right:20px;
+}
+.toggle2:before {
+  content:"\f105";
+  font:normal normal normal 16px/1 FontAwesome;
+}
+.hamburger-menu {
+  padding:1em;
+  display:none;
+  font:normal normal normal 16px/1 Roboto;
+  text-transform:uppercase;
+}
+
+@media (max-width:720px) {
+  .main-menu {
+    height:50px;
+  }
+  .container-menu {
+    width:100%;
+  }
+  .navigation {
+    float:left;
+    display:block;
+    width:100%;
+  }
+  .core-menu {
+    float:right;
+    width:100%;
+    background:#1a1a1a;
+    margin:auto;
+    display:none;
+  }
+  
+  .core-menu li {
+    width:100%;
+    display:block;
+  }
+  .core-menu li a{
+    display:block;
+    margin:auto;
+  }
+  .hamburger-menu {
+    display:block;
+    text-align:center;
+    padding-right:60px;
+    float:none;
+    width:100%;
+  }
+  .burger-1, .burger-2, .burger-3 {
+  display:block;
+  position:absolute;
+  width:20px;
+  height:3px;
+  border-radius:30px;
+  right:0;
+  margin-right:25px;
+  background:#fff;
+    -webkit-transition:.2s ease;
+    -ms-transition:.2s ease;
+    -moz-transition:.2s ease;
+    -o-transition:.2s ease;
+  transition:.2s ease; 
+  }
+  .burger-1 {
+  top:15px;
+  }
+  .burger-2 {
+  top:23px;
+  }
+  .burger-3 {
+  top:31px;
+  }
+  .burger-1.open, .burger-2.open, .burger-3.open {
+  -webkit-transition:.2s ease;
+  -ms-transition:.2s ease;
+  -moz-transition:.2s ease;
+  -o-transition:.2s ease;
+    transition:.2s ease;
+    transform-origin:50% 50%;
+  }
+  .burger-1.open {
+    top:25px;
+    width:23px;
+    transform:rotate(45deg);
+    -webkit-transform:rotate(45deg); 
+    -ms-transform:rotate(45deg); 
+    -moz-transform:rotate(45deg); 
+    -o-transform:rotate(45deg); 
+  }
+  .burger-2.open {
+    opacity:0;
+  }
+  .burger-3.open {
+    top:25px;
+    width:23px;
+    transform:rotate(-45deg);
+  }
+  .dropdown {
+    width:100%;
+    background:#0e0e0e;
+    text-align:center;
+    position:relative;
+  }
+  .dropdown2 {
+    right:0;
+    top:0;
+    width:100%;
+    position:relative;
+    padding:0 20px;
+}
+}
+/*---------- Menu End --------*/  
+
+/*------------ Citizen Registration--------------------*/
+.form-control:focus
+{
+    border-color:#66afe9;
+    outline:0;
+    font-size: 18px;
+    -webkit-box-shadow: 0px 0px 22px 2px rgba(81,131,219,1);
+    -moz-box-shadow: 0px 0px 22px 2px rgba(81,131,219,1);
+    box-shadow: 0px 0px 22px 2px rgba(81,131,219,1);
+}
+
+.box {
+    position: relative;
+    border-radius: 3px;
+    background: #ffffff;
+    border-top: 2px solid #d2d6de;
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+label{
+    display:inline-block;
+    max-width:100%;
+    margin-bottom:5px;
+}
+
+.Cntrl1
+{
+    background-color:#abcdef;
+    color: Yellow;
+    border: 1px solid #AB00CC;
+    font: Verdana 10px;
+    padding: 1px 1px;
+    font-family: Palatino Linotype, Arial, Helvetica, sans-serif;
+}
+
+.form-error{
+    color:red;
+    background: none;
+    font-style:oblique;
+    font-size: 13px;
+    font-weight: bold;
+    /* border: 5px solid red;*/
+}
+
+.field-error{
+    background:floralwhite;
+    font-style:oblique;
+    border: 2px solid red;
+}
+
+.form-group {
+    margin-bottom: 15px !important;
+   
+}
+
+
+.rowht
+{
+    height: 5px;
+}
+
+
+/* ----------------Responsive Code---------------------------- */
+
+
+@media screen and (max-width: 768px) {
+
+  #lgin{
+
+      margin-left: 25%;
+      margin-top: 5%;
+   }
+  
+   #rgis{
+  
+      margin-top: 5%;
+      margin-left: 15%;
+   }
+
+   #org{
+
+      margin-left: 32%;
+      margin-top: 2.5%;
+   }
+ 
+   #banner{
+
+    width: 100%;
+   }
+
+   #gallery{
+
+    margin-top: 0.5%;
+   }
+}
+
+
+
+
+/* alternative screens */
+
+
+@media screen and (max-width: 411px) {
+
+    #lgin{
+
+        margin-left: 34%;
+        margin-top: 5%;
+     }
+    
+     #rgis{
+    
+        margin-top: 5%;
+        margin-left: 34%;
+     }
+
+     #org{
+
+        margin-left: 34%;
+        margin-top: 2.5%;
+     }
+     #banner{
+
+      width: 100%;
+     }
+
+     #gallery{
+
+      margin-top: 0.5%;
+     }
+   
+}
+
+@media screen and (max-width: 414px) {
+
+    #lgin{
+
+        margin-left: 34%;
+        margin-top: 5%;
+     }
+    
+     #rgis{
+    
+        margin-top: 5%;
+        margin-left: 34%;
+     }
+
+     #org{
+
+        margin-left: 35%;
+        margin-top: 2.5%;
+     }
+
+     #banner{
+
+      width: 100%;
+     }
+
+     #gallery{
+
+      margin-top: 0.5%;
+     }
+   
+} 
+
+@media screen and (max-width: 425px) {
+
+    #lgin{
+
+        margin-left: 34%;
+        margin-top: 5%;
+     }
+    
+     #rgis{
+    
+        margin-top: 5%;
+        margin-left: 34%;
+     }
+
+     #org{
+
+        margin-left: 35%;
+        margin-top: 2.5%;
+     }
+
+     #banner{
+
+      width: 100%;
+     }
+
+     #gallery{
+
+      margin-top: 0.5%;
+     }
+   
+}
+
+@media screen and (max-width: 375px) {
+
+    #lgin{
+
+        margin-left: 32%;
+        margin-top: 5%;
+     }
+    
+     #rgis{
+    
+        margin-top: 5%;
+        margin-left: 32%;
+     }
+
+     #org{
+
+        margin-left: 31%;
+        margin-top: 2.5%;
+     }
+
+     #banner{
+
+      width: 100%;
+     }
+
+     #gallery{
+
+      margin-top: 0.5%;
+     }
+   
+}
+
+@media screen and (max-width: 360px) {
+
+  #lgin{
+
+      margin-left: 32%;
+      margin-top: 5%;
+   }
+  
+   #rgis{
+  
+      margin-top: 5%;
+      margin-left: 32%;
+   }
+
+   #org{
+
+      margin-left: 31%;
+      margin-top: 2.5%;
+   }
+
+   #banner{
+
+    width: 100%;
+   }
+
+   #gallery{
+
+    margin-top: 0.5%;
+   }
+   
+   #t{
+       display: box;
+   }
+ 
+}
+
+
+@media screen and (max-width: 320px) {
+
+    #lgin{
+
+        margin-left: 29%;
+        margin-top: 5%;
+     }
+    
+     #rgis{
+    
+        margin-top: 5%;
+        margin-left: 29%;
+     }
+
+     #org{
+
+        margin-left: 30%;
+        margin-top: 2.5%;
+     }
+
+     #banner{
+
+      width: 100%;
+     }
+
+     #gallery{
+
+      margin-top: 0.5%;
+     }
+   
+}
+
+

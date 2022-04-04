@@ -1,0 +1,3969 @@
+msgid "lblfunaccept5" 
+msgstr "STAMP 4" 
+
+msgid "lbladmtaluka" 
+msgstr "Revenue Circle" 
+
+msgid "lblTaluka" 
+msgstr "Revenue Circle" 
+
+msgid "lblTalukaname_ll" 
+msgstr "Revenue Circle Name" 
+
+msgid "lblCircle_ll" 
+msgstr "Tehsil" 
+
+msgid "lblcirclecode" 
+msgstr "Tehsil Code" 
+
+msgid "lbltalukacode" 
+msgstr "Revenue Circle Code" 
+
+msgid "lbloldpass" 
+msgstr "Old Password" 
+
+msgid "lblblocklvlconheadsetup" 
+msgstr "State/ UT Level Configuration Setup" 
+
+msgid "lblFeeExemption" 
+msgstr "Fee Exemption" 
+
+msgid "lblApplicantName" 
+msgstr "Name of Applicant" 
+
+msgid "lblitemlistname_ll" 
+msgstr "Item List Name" 
+
+msgid "lblimg" 
+msgstr "Image" 
+
+msgid "lblfeeinput" 
+msgstr "Input" 
+
+msgid "lblidentifiertype" 
+msgstr "Identifier Type Name" 
+
+msgid "lblselectoperator" 
+msgstr "Select Operator" 
+
+msgid "lblList" 
+msgstr "List" 
+
+msgid "lbllabeldescll" 
+msgstr "Label Description (Local)" 
+
+msgid "lblotpverification" 
+msgstr "OTP Verification" 
+
+msgid "lblpanverified" 
+msgstr "PAN Verified" 
+
+msgid "lblpartyfirstname" 
+msgstr "Party First Name" 
+
+msgid "lblpartyinfo" 
+msgstr "Party Information" 
+
+msgid "lblpaymentverify" 
+msgstr "Payment" 
+
+msgid "lblpersinfo" 
+msgstr "Personal Information" 
+
+msgid "lblpleasefirstsubmitapplication" 
+msgstr "Please first submit document using application submission tab." 
+
+msgid "lblraterecord" 
+msgstr "Rate Record" 
+
+msgid "lblgeneralinfo" 
+msgstr "General Information" 
+
+msgid "lblcityvillage" 
+msgstr "Revenue Village/Mouja" 
+
+msgid "lblreceipt" 
+msgstr "Payment Receipt" 
+
+msgid "lblfeeandpaymentmodelnk" 
+msgstr "Fee Type And Payment Mode Linkage" 
+
+msgid "lblfeetypemaster" 
+msgstr "Fee Type Master" 
+
+msgid "lblfingerverificationfailed" 
+msgstr "Finger Verification Attempt Failed Please Get OTP And Login." 
+
+msgid "lblsortid" 
+msgstr "Sort ID" 
+
+msgid "lblExemptionFeerule" 
+msgstr "Stamp Duty Exemption Rule" 
+
+msgid "lblvillage" 
+msgstr "Village" 
+
+msgid "lblisboolian" 
+msgstr "True / False" 
+
+msgid "lblReprintSD" 
+msgstr "Stamp Duty Fee Calculation Report" 
+
+msgid "lblfeerule" 
+msgstr "Fee Rule&nbsp" 
+
+msgid "lblsubmenudesc" 
+msgstr "Sub Menu Description" 
+
+msgid "lblwitnessmiddlename" 
+msgstr "Witness Middle Name" 
+
+msgid "lbltabrpt" 
+msgstr "Table Report" 
+
+msgid "lblTotal" 
+msgstr "Total Amount" 
+
+msgid "lblupload_scanned_document" 
+msgstr "Upload Scanned Document" 
+
+msgid "lblbiologin" 
+msgstr "Biometric Login" 
+
+msgid "btncancel" 
+msgstr "Cancel" 
+
+msgid "lblfeetypedesc" 
+msgstr "Fee Type Description" 
+
+msgid "lblfinalremark" 
+msgstr "Final Remark" 
+
+msgid "lblfunctions" 
+msgstr "Functions" 
+
+msgid "lblcastcategory" 
+msgstr "Caste Category" 
+
+msgid "lbl_payment_cashbook" 
+msgstr "Generate cashbook" 
+
+msgid "lblgovbodyname" 
+msgstr "Governing Body Name" 
+
+msgid "lblattrivalue_part2" 
+msgstr "Hissa 2" 
+
+msgid "lblprmntaddrs" 
+msgstr "Permanent Addrees" 
+
+msgid "lblholidaydescription" 
+msgstr "Holiday Description" 
+
+msgid "lblhdaytodate" 
+msgstr "Holiday To Date" 
+
+msgid "lblmotherfullname_ll" 
+msgstr "Mother full name" 
+
+msgid "lblreportingoffice" 
+msgstr "Reporting Office" 
+
+msgid "lblrole_desc" 
+msgstr "Role Description" 
+
+msgid "lblselarticle" 
+msgstr "Select Article" 
+
+msgid "lbltablelist" 
+msgstr "Table List For PDF Report" 
+
+msgid "lblistdrapplicable" 
+msgstr "TDR Applicable" 
+
+msgid "btnsubmit" 
+msgstr "Submit" 
+
+msgid "lblselectdocument" 
+msgstr "Select Upload Document" 
+
+msgid "lblfunaccept8" 
+msgstr "Submit Checklist" 
+
+msgid "lblselbooleanval" 
+msgstr "Select Boolean Value" 
+
+msgid "lblselectmodule" 
+msgstr "Select Module" 
+
+msgid "lblslabrate" 
+msgstr "Slab Rate" 
+
+msgid "lbltatkalfromtime" 
+msgstr "Tatkal Time From" 
+
+msgid "lbltatkaltotime" 
+msgstr "Tatkal  Time To" 
+
+msgid "lblseparater" 
+msgstr "Separator" 
+
+msgid "lblisexecuter" 
+msgstr "Is Executer?" 
+
+msgid "lblfatherlname_ll" 
+msgstr "Father's Last Name" 
+
+msgid "lblfid" 
+msgstr "FID" 
+
+msgid "lblfinalsubmission" 
+msgstr "Final Submission" 
+
+msgid "lblfinger" 
+msgstr "Finger" 
+
+msgid "lblstarmandatorynote" 
+msgstr "indicates mandatory fields." 
+
+msgid "lblisdocsigned" 
+msgstr "Is Document Signed" 
+
+msgid "lblnewusrrecord" 
+msgstr "New User Records" 
+
+msgid "lblpropertyusage" 
+msgstr "Property Usage" 
+
+msgid "lblisprohibitionclr" 
+msgstr "Is Prohibition cleared ?" 
+
+msgid "remark_ll" 
+msgstr "Ramark" 
+
+msgid "lblleaseandlicense" 
+msgstr "Leave And License" 
+
+msgid "lr_connection_applicable" 
+msgstr "LR Connection Applicable?" 
+
+msgid "lblmajorfunctiondescription_ll" 
+msgstr "Major Function Description" 
+
+msgid "lblmajorfunctiondescription" 
+msgstr "Major Function Description" 
+
+msgid "lblnameofdockwriter" 
+msgstr "Name of The Document Writer" 
+
+msgid "lblpartylname_ll" 
+msgstr "Last Name" 
+
+msgid "lblLevel1" 
+msgstr "Level 1" 
+
+msgid "lblnewdocument" 
+msgstr "New Document Entry" 
+
+msgid "lblnewlysubmittedtoken" 
+msgstr "Newly Submitted Tokens" 
+
+msgid "lblngdrscitizen" 
+msgstr "NGDRS Clients" 
+
+msgid "lblrecordnotfound" 
+msgstr "No Record Found" 
+
+msgid "lblofclist" 
+msgstr "Office List" 
+
+msgid "lblpotkharabareatosale" 
+msgstr "Potkharab Area To Sale" 
+
+msgid "lblpresentername" 
+msgstr "Presenter Name" 
+
+msgid "lblpropage" 
+msgstr "Property Age" 
+
+msgid "lblpropertyscreenhead" 
+msgstr "Property Valuation" 
+
+msgid "lblprovidedetails" 
+msgstr "Provide Details" 
+
+msgid "lblratereport" 
+msgstr "Rate Report" 
+
+msgid "lblratesearchrule" 
+msgstr "Rate Search Rule" 
+
+msgid "lblprohibitionrmk" 
+msgstr "Prohibition Remark" 
+
+msgid "lblcaptcha" 
+msgstr "Captcha" 
+
+msgid "lblareatype" 
+msgstr "Built Up Area Type" 
+
+msgid "lbltriblenote" 
+msgstr " If one party selected as tribal then select all parties as tribal." 
+
+msgid "lbligrownership" 
+msgstr "IGR Ownership" 
+
+msgid "lblindexreports" 
+msgstr "Index Reports" 
+
+msgid "lblinterfacefieldlength" 
+msgstr "Interface Field Length" 
+
+msgid "lbllistflag" 
+msgstr "Is List Item?" 
+
+msgid "lblRateLocationDependancyRequired" 
+msgstr "Is Location Dependency Required ?" 
+
+msgid "lblcitizenpaymententry" 
+msgstr "Citizen Payment Entry" 
+
+msgid "lblitemdesc" 
+msgstr "Item Description" 
+
+msgid "lblholidaydate" 
+msgstr "Date Of Holiday" 
+
+msgid "lbldesignation" 
+msgstr "Designation" 
+
+msgid "lblidentityinfo" 
+msgstr "Details of Identifier" 
+
+msgid "lbldelitem" 
+msgstr "Delete Item" 
+
+msgid "lbldestinationfilename" 
+msgstr "Destination Filename" 
+
+msgid "lbldevicename" 
+msgstr "Device Name" 
+
+msgid "lbldivisioncode" 
+msgstr "Division Code" 
+
+msgid "lbldist" 
+msgstr "Disrtict" 
+
+msgid "lblinterfacepassword" 
+msgstr "Interface User Password" 
+
+msgid "lblLevel4list" 
+msgstr "Level 4 List" 
+
+msgid "lbllevel_local" 
+msgstr "Level (in Local)" 
+
+msgid "lblmicrcode" 
+msgstr "MICR Code" 
+
+msgid "lblhintans" 
+msgstr "Your Answer" 
+
+msgid "lbltrnsfto" 
+msgstr "Transfered To" 
+
+msgid "lblfeedesc" 
+msgstr "Fee Type" 
+
+msgid "lblfingercapture" 
+msgstr "Fingerprint Capture" 
+
+msgid "lblorder_number" 
+msgstr "JDR Order Number" 
+
+msgid "lbluploaddock" 
+msgstr "Upload Document" 
+
+msgid "lbljoiningdesc" 
+msgstr "Joining Designation" 
+
+msgid "lblholidaydesc" 
+msgstr "Holiday Description" 
+
+msgid "lblholidaytype" 
+msgstr "Holiday Type" 
+
+msgid "lblindex1" 
+msgstr "Index 1" 
+
+msgid "lblwatermark" 
+msgstr "iSarita 2.0" 
+
+msgid "lblis_list_field_flag" 
+msgstr "Is list Field?" 
+
+msgid "lblissuetype" 
+msgstr "Issue Type" 
+
+msgid "lblempid" 
+msgstr "Employee Id" 
+
+msgid "lbljurisdiction_flag" 
+msgstr "Jurisdiction Flag" 
+
+msgid "lblLevel3" 
+msgstr "Level 3" 
+
+msgid "lblLevel6" 
+msgstr "Level 6" 
+
+msgid "lblitem" 
+msgstr "Item" 
+
+msgid "lblblocklv7" 
+msgstr "Level 7" 
+
+msgid "lbllevelmapping" 
+msgstr "Level Mapping" 
+
+msgid "lbllevels" 
+msgstr "Levels" 
+
+msgid "lbllnkofficename" 
+msgstr "Link Office Name" 
+
+msgid "lbllocalgovbody" 
+msgstr "Local Governing Body" 
+
+msgid "lbllogin" 
+msgstr "Login" 
+
+msgid "lbllunchtotime" 
+msgstr "Lunch To Time" 
+
+msgid "lblmainmenu" 
+msgstr "Main Menu Name" 
+
+msgid "lbllevelname" 
+msgstr "Name" 
+
+msgid "lblLevel3list" 
+msgstr "Level 3 List" 
+
+msgid "lblprtylist" 
+msgstr "Party List" 
+
+msgid "lblofcaddr" 
+msgstr "Office Address" 
+
+msgid "lblofficeappointfromtime" 
+msgstr "Office Appointment Time From" 
+
+msgid "lblofficecategory" 
+msgstr "Office Category" 
+
+msgid "lblsubmenu" 
+msgstr "Sub Menu" 
+
+msgid "lblpartyfullname" 
+msgstr "Party Full Name" 
+
+msgid "lblcertifiedcopyprint" 
+msgstr "Print Certified Copy" 
+
+msgid "property_applicable" 
+msgstr "Property Applicable?" 
+
+msgid "lblpropertyattributedescription" 
+msgstr "Property Attribute Description" 
+
+msgid "lblrateasperlocation" 
+msgstr "Property Rate Chart" 
+
+msgid "lblregoffice" 
+msgstr "Registration office" 
+
+msgid "lblseltabname" 
+msgstr "Select Table Name" 
+
+msgid "lblsrno" 
+msgstr "Sr. No." 
+
+msgid "lblsubmenuname" 
+msgstr "Sub Menu Name" 
+
+msgid "lblusage" 
+msgstr "Usage Category" 
+
+msgid "lblevalrule" 
+msgstr "Valuation Rule" 
+
+msgid "lblverifyandsave" 
+msgstr "Verify And Save" 
+
+msgid "lblviewdetails" 
+msgstr "View Details" 
+
+msgid "lblstampdutypaid" 
+msgstr "Stamp Duty Paid" 
+
+msgid "lbltobedeletedflag" 
+msgstr "To be Deleted Flag" 
+
+msgid "lbltabledescll" 
+msgstr "Table Desc.(Local)" 
+
+msgid "lblbuilderadd" 
+msgstr "Builder Address" 
+
+msgid "lbltntcontract" 
+msgstr "Tenant And Tenancy Contract Details" 
+
+msgid "lblbtnedit" 
+msgstr "Edit" 
+
+msgid "lblconfigdesc" 
+msgstr "Configuration Description" 
+
+msgid "lbltooffice" 
+msgstr "To Office" 
+
+msgid "lbltouser" 
+msgstr "To User" 
+
+msgid "lbltodaysappointment" 
+msgstr "Today’s Appointments" 
+
+msgid "lblvaluationno" 
+msgstr "Valuation No." 
+
+msgid "lblcreaterole" 
+msgstr "Create Role" 
+
+msgid "lblviewcitizendata" 
+msgstr "View Citizen Data" 
+
+msgid "lblstamphierarchy" 
+msgstr "STAMP Hierarchy" 
+
+msgid "lblhome" 
+msgstr "Home" 
+
+msgid "lbllinkdocregno" 
+msgstr "Link document number is previous registration number for this property." 
+
+msgid "lblisstamp" 
+msgstr "Is Stamp ?" 
+
+msgid "lblconfregboolinfo" 
+msgstr "Configuration Registration  Information" 
+
+msgid "lbldevlandtypermk" 
+msgstr "Developed Land Type remark" 
+
+msgid "lbldesclaimer" 
+msgstr "Disclaimer" 
+
+msgid "lbldockreleasedremark" 
+msgstr "Document Release Remark" 
+
+msgid "lblcontactno" 
+msgstr "Contact No." 
+
+msgid "lblreport" 
+msgstr "Report" 
+
+msgid "lblroad_ll" 
+msgstr "Road" 
+
+msgid "lblroadname" 
+msgstr "Road name" 
+
+msgid "lblsdscreen" 
+msgstr "Display On Fee Calculation Screen?" 
+
+msgid "lbdDocumentname" 
+msgstr "Document Names" 
+
+msgid "lbluserdependency1" 
+msgstr "Road Type" 
+
+msgid "lblruledescen" 
+msgstr "Rule Description (Eng.)" 
+
+msgid "lblruledescll" 
+msgstr "Rule Description (Local)" 
+
+msgid "lblSalutation" 
+msgstr "Salutation" 
+
+msgid "lblscaningpending" 
+msgstr "Scaning Pending" 
+
+msgid "lblscannerdevice" 
+msgstr "Scanner Device" 
+
+msgid "lblscheduledtime" 
+msgstr "Schedule Time" 
+
+msgid "lblsdview" 
+msgstr "SD View" 
+
+msgid "lblsearcholdnamebyparty" 
+msgstr "Search old party name by" 
+
+msgid "lblselaction" 
+msgstr "Select Action" 
+
+msgid "lblwrittenbyname" 
+msgstr "Written By Name" 
+
+msgid "lbltemplate_applicable_flag" 
+msgstr "Template Applicable Flag" 
+
+msgid "lbltitlewisebookno" 
+msgstr "Title Wise Book No" 
+
+msgid "lblsavemsg" 
+msgstr "Record Saved Successfully." 
+
+msgid "lblselectbahaviordetails" 
+msgstr "Select Behaviour Detail" 
+
+msgid "lblrate" 
+msgstr "Rate Entry" 
+
+msgid "lblnextroundvalue" 
+msgstr "Next Rounding value" 
+
+msgid "lblIsSingleUnit" 
+msgstr "Is Single Unit Item (Used to filter Unit)" 
+
+msgid "lbldocumententry" 
+msgstr "Upload Document Entry" 
+
+msgid "lbluploadedfilessize" 
+msgstr "Uploaded Files Size" 
+
+msgid "lblenteryear" 
+msgstr "Enter Year" 
+
+msgid "lblfeeitemtypename" 
+msgstr "Fee Item Type Name" 
+
+msgid "lblusageinputitem" 
+msgstr "Usage Item Input" 
+
+msgid "lblisrequired" 
+msgstr "Is Required" 
+
+msgid "lblis_subpart_flag" 
+msgstr "Is Sub Part Flag" 
+
+msgid "lbllname" 
+msgstr "Last Name" 
+
+msgid "lble_file_applicable" 
+msgstr "E-File Applicable" 
+
+msgid "lblentertoken" 
+msgstr "Enter Token" 
+
+msgid "lblenteruploaddocname" 
+msgstr "Enter Upload Document Name" 
+
+msgid "lblfeecalid" 
+msgstr "Fee Calculation Id" 
+
+msgid "lblfeeitemlist" 
+msgstr "Fee Item List" 
+
+msgid "lblfeeitemtype" 
+msgstr "Fee Item Type" 
+
+msgid "lblfeeitemvalue" 
+msgstr "Fee Item Value" 
+
+msgid "lbllinkofficename" 
+msgstr "Link Office Name" 
+
+msgid "lblcond1" 
+msgstr "Condition 1" 
+
+msgid "lblratepermonth" 
+msgstr "Rate Per Month" 
+
+msgid "lbluploaddocname" 
+msgstr "Upload Document Name" 
+
+msgid "lblminorfunction" 
+msgstr "PDE Function" 
+
+msgid "lblfeeitemid" 
+msgstr "Fee Item Type Id" 
+
+msgid "lbllocallanguage" 
+msgstr "Local Language" 
+
+msgid "lblminorfunctiondescription_ll" 
+msgstr "Function Description" 
+
+msgid "lblminorfunctiondescription" 
+msgstr "Function Description" 
+
+msgid "lblhomevisit" 
+msgstr "Home Visit" 
+
+msgid "lblstatusflag" 
+msgstr "Include In Status " 
+
+msgid "lblindexregister1" 
+msgstr "Index Register 1" 
+
+msgid "lblindexregister3" 
+msgstr "Index Register 3" 
+
+msgid "lbldelete_flag" 
+msgstr "Is Deleted" 
+
+msgid "lblis_input_hidden" 
+msgstr "Is Hidden Field" 
+
+msgid "is_list_field_flag" 
+msgstr "Is List Field" 
+
+msgid "is_textbox_numeric" 
+msgstr "Is Numeric Field" 
+
+msgid "is_textbox_string" 
+msgstr "Is String Field" 
+
+msgid "lblLevel2list" 
+msgstr "Level 2 List" 
+
+msgid "lblonlyoneparty" 
+msgstr "Only One Party" 
+
+msgid "lbloptional" 
+msgstr "Optional" 
+
+msgid "lblminorfunctionconfig" 
+msgstr "PDE Function Configuration" 
+
+msgid "lblfeeoutput" 
+msgstr "Output" 
+
+msgid "lblpartyfirstname_ll" 
+msgstr "Party First Name" 
+
+msgid "lblpartymiddlename_ll" 
+msgstr "Party Middle Name" 
+
+msgid "lblpaymentmodeactive" 
+msgstr "Payment Activation" 
+
+msgid "lblpaymentmodeid" 
+msgstr "Payment Mode Id" 
+
+msgid "lblpaymentmodename" 
+msgstr "Payment Mode Name" 
+
+msgid "lble_filing_flag" 
+msgstr "Required for eFiling" 
+
+msgid "lble_reg_menu" 
+msgstr "Required for eRegistration" 
+
+msgid "lblleave_licence_flag" 
+msgstr "Required for Leave Licence" 
+
+msgid "lblcitizen_flag" 
+msgstr "Required for PDE through citizen " 
+
+msgid "lblsro_menu_flag" 
+msgstr "Required for PDE through SRO" 
+
+msgid "lblofficejurisdiction" 
+msgstr "Office Jurisdiction" 
+
+msgid "lbldocumentcancellation" 
+msgstr "Document Cancellation" 
+
+msgid "lblbehavourdescription" 
+msgstr "Behaviour" 
+
+msgid "lblblocksctrloctn" 
+msgstr "Block Sector Location" 
+
+msgid "lblOnlineCompultionflag" 
+msgstr "Is Online Payment Compulsory" 
+
+msgid "lblispresenterflag" 
+msgstr "Is Presenter" 
+
+msgid "lblbioreg" 
+msgstr "Biometric Verification" 
+
+msgid "lbldisplayonparty" 
+msgstr "Display On Party Form" 
+
+msgid "lblesignconsent" 
+msgstr "By pressing OTP button, I hereby give my consent for using aadhaar ekyc otp data from Aadhaar for the purpose of signing selected data and using e-KYC data for generating Digital Signature Certificate (DSC)" 
+
+msgid "lbldisposalmethod" 
+msgstr "Disposal Methods" 
+
+msgid "lbldisposalreason" 
+msgstr "Disposal Reason" 
+
+msgid "lblusagemaincatrgory" 
+msgstr "Select Usage Main Category" 
+
+msgid "lblnoofregistration" 
+msgstr "No. of Registration" 
+
+msgid "lblRateCompareRequired" 
+msgstr "Is Rate Comparison Required ?" 
+
+msgid "lblattribute_property" 
+msgstr "Property Attribute" 
+
+msgid "lblfeerounddesc" 
+msgstr "Fee Rounding Value Name" 
+
+msgid "lblexit" 
+msgstr "Exit" 
+
+msgid "lblloclevellist1desc" 
+msgstr "Location Level 1 List Name" 
+
+msgid "lblyear_for_token" 
+msgstr "Year For Token Number" 
+
+msgid "lbllocalgoberningbody" 
+msgstr "Local Governing Body" 
+
+msgid "lblgetrebordby" 
+msgstr "Select cashbook option" 
+
+msgid "lblstampduty" 
+msgstr "Stamp Duty" 
+
+msgid "lblselectadditionalofc" 
+msgstr "Select Additional Office" 
+
+msgid "lblselectbank" 
+msgstr "Select Bank" 
+
+msgid "lblfurnitureappliances" 
+msgstr "Furniture And Appliances" 
+
+msgid "lblselminorlist" 
+msgstr "Select Minor list" 
+
+msgid "lblusertype" 
+msgstr "Select User Type" 
+
+msgid "lblsroremark" 
+msgstr "SRO Remark" 
+
+msgid "lblsigntostartsession" 
+msgstr "Sign in to start your session." 
+
+msgid "lblselcontroller" 
+msgstr "Select Controller" 
+
+msgid "lblstatus" 
+msgstr "Status" 
+
+msgid "lbladmsubdivision" 
+msgstr "Sub Division" 
+
+msgid "lblattriname" 
+msgstr "Selected Attribute" 
+
+msgid "lblsroname" 
+msgstr "SRO Name" 
+
+msgid "lblpartycategory" 
+msgstr "Select Party Category" 
+
+msgid "lblselmenu" 
+msgstr "Select Menu" 
+
+msgid "lblunitdescription" 
+msgstr "Unit Description" 
+
+msgid "lbllistid" 
+msgstr "List ID" 
+
+msgid "lblproperty" 
+msgstr "Property" 
+
+msgid "lblselofc" 
+msgstr "Select Office" 
+
+msgid "lblrefdockdt" 
+msgstr "Reference Document Date" 
+
+msgid "lblok" 
+msgstr "OK" 
+
+msgid "lblofcemail" 
+msgstr "Office Email" 
+
+msgid "lblrefdocnofetchparty" 
+msgstr "Reference document number/Token number is required to fetch  party name from  old document." 
+
+msgid "lbltenantfmlydtls" 
+msgstr "Tenant Family Details" 
+
+msgid "lblusagecategory" 
+msgstr "Usage Category" 
+
+msgid "lblselectpara" 
+msgstr "Select Item" 
+
+msgid "lblselectmainmenu" 
+msgstr "Select Main Menu" 
+
+msgid "lblselectmajordescription" 
+msgstr "Select Major Description" 
+
+msgid "lblselectsubmenu" 
+msgstr "Select Sub Menu" 
+
+msgid "lblselectuser" 
+msgstr "Select User" 
+
+msgid "lblcidco_citizen_flag" 
+msgstr "Required for Private Builder PDE" 
+
+msgid "lblesignconsent " 
+msgstr "E-Sign Consent" 
+
+msgid "lblyourdock" 
+msgstr "Your Documents" 
+
+msgid "lbluploadedfileslist" 
+msgstr "Uploaded Files List" 
+
+msgid "lblusagecatandlinkage" 
+msgstr "Usage Category And Linkage" 
+
+msgid "use_common_rule_flag" 
+msgstr "Use common rule flag." 
+
+msgid "lblisbank" 
+msgstr "Is Bank" 
+
+msgid "lbldivtolevel" 
+msgstr "Division To Level" 
+
+msgid "lblAccountHeadCode" 
+msgstr "Account Head Code" 
+
+msgid "lblpasswordpattern" 
+msgstr "* Only Hash (#), At Sign (@) & Star (*)  with one uppercase alphabet, one small alphabet & one number allowed in Password field." 
+
+msgid "lbladditionalinfo" 
+msgstr "Additional Information" 
+
+msgid "lblappintmenttime" 
+msgstr "Appointment Time" 
+
+msgid "lblapproveuser" 
+msgstr "Approve User" 
+
+msgid "lblvillagecode" 
+msgstr "Village Code" 
+
+msgid "lblstaticval" 
+msgstr "Static Value" 
+
+msgid "lblselectrule" 
+msgstr "Select Rule" 
+
+msgid "lblpropertydetails" 
+msgstr "Property Details" 
+
+msgid "lblmotherfullname" 
+msgstr "Mother Full Name" 
+
+msgid "lblsavelist" 
+msgstr "Save List" 
+
+msgid "lblsex" 
+msgstr "Sex" 
+
+msgid "lblupload" 
+msgstr "Upload" 
+
+msgid "lblendrmk" 
+msgstr "End Remark" 
+
+msgid "lblid" 
+msgstr "Id" 
+
+msgid "lblusagecategorylinkage" 
+msgstr "Usage Category Linkage" 
+
+msgid "lblready_reckoner_rate_flag" 
+msgstr "Is Ready Reckoner rate" 
+
+msgid "lblstatelogo" 
+msgstr "State/ UT Logo" 
+
+msgid "lbllicensenumber" 
+msgstr "Licence Number" 
+
+msgid "lblfiletypeformat" 
+msgstr "Field Type Format" 
+
+msgid "lblidentificationmark2_ll" 
+msgstr "Identification Mark 2" 
+
+msgid "lblidentification" 
+msgstr "Identifier" 
+
+msgid "lblidentificationfirstname" 
+msgstr "Identifier First Name" 
+
+msgid "lblindex4" 
+msgstr "Index 4" 
+
+msgid "lblreginprocess" 
+msgstr "In Process" 
+
+msgid "lblinterfacename" 
+msgstr "Interface Name" 
+
+msgid "lblismax" 
+msgstr "Is Max ?" 
+
+msgid "lbldistlvl" 
+msgstr "Level 3" 
+
+msgid "lbllistofproperties" 
+msgstr "List of Properties" 
+
+msgid "lbllocality" 
+msgstr "Locality" 
+
+msgid "lblMinValue" 
+msgstr "Minimum Value" 
+
+msgid "lblopen" 
+msgstr "Open" 
+
+msgid "lblopenmodel" 
+msgstr "Open Modal" 
+
+msgid "lbloperator" 
+msgstr "Operator" 
+
+msgid "lbloperatorsign" 
+msgstr "Operator Sign" 
+
+msgid "lblpartyid" 
+msgstr "Party Id" 
+
+msgid "lblpartytypeshow" 
+msgstr "Party Type" 
+
+msgid "lblmissing_documents_upload" 
+msgstr "Missing Document Upload" 
+
+msgid "unique_property_no_ll" 
+msgstr "Property Number" 
+
+msgid "lblis_boundary_applicable" 
+msgstr "Is boundary applicable" 
+
+msgid "lblfunaccept1" 
+msgstr "Accept" 
+
+msgid "lblfunaccept2" 
+msgstr "STAMP 1" 
+
+msgid "lblfunaccept3" 
+msgstr "STAMP 2" 
+
+msgid "lblsurveyno" 
+msgstr "Plot Number" 
+
+msgid "lblskip_val_flag" 
+msgstr "Is Skip Valuation Rule" 
+
+msgid "lblpresentationexemption" 
+msgstr "Presentation Exemption" 
+
+msgid "lblconfiglistitemsdescription" 
+msgstr "Property Item Values" 
+
+msgid "lblreasondescription" 
+msgstr "Reason Description" 
+
+msgid "lblreportingofficeremailid" 
+msgstr "Reporting Officer Email Id" 
+
+msgid "lblminorfunctionentry" 
+msgstr "PDE Function Entry" 
+
+msgid "lbluploadfilename" 
+msgstr "Only Alphabets,Number,Dash(-),Underscore(_) allowed in file name." 
+
+msgid "lblpropertyattribute" 
+msgstr "Property Attributes" 
+
+msgid "lblsearchregsummery" 
+msgstr "Search Registration Summary" 
+
+msgid "lblarticlename" 
+msgstr "Article Name" 
+
+msgid "lblauthenticatebiometric" 
+msgstr "Authentication Biometric" 
+
+msgid "lblboundryeast" 
+msgstr "Boundaries East" 
+
+msgid "lblbuldingname" 
+msgstr "Building Name" 
+
+msgid "lblcameranotworking" 
+msgstr "Camera not working" 
+
+msgid "lblctncancelappointment" 
+msgstr "Cancel Appointment" 
+
+msgid "lblcapturefingurprint" 
+msgstr "Capture Fingureprint" 
+
+msgid "lblbookno" 
+msgstr "Book No" 
+
+msgid "lblcensuscodechagedate" 
+msgstr "Census Code Change Date" 
+
+msgid "lblcompulsory" 
+msgstr "Compulsory" 
+
+msgid "lblconsideration_amount_entry" 
+msgstr "Consideration amount entry" 
+
+msgid "lblConvertedarea" 
+msgstr "Converted Area" 
+
+msgid "lblCorporationClass" 
+msgstr "Corporation Class" 
+
+msgid "lbldependencyattributes" 
+msgstr "Dependency Attributes" 
+
+msgid "lblgdscreen" 
+msgstr "Display On General Informaton  Screen?" 
+
+msgid "lbldocksummery" 
+msgstr "Document Summary" 
+
+msgid "lbldocktype" 
+msgstr "Document Type" 
+
+msgid "lblmaincast" 
+msgstr "Caste Type" 
+
+msgid "lblconpletealllevels" 
+msgstr "Please verify completion of all levels of registration.Please check status bar and entry for both parties." 
+
+msgid "lblcheckbydate" 
+msgstr "Check By Date" 
+
+msgid "lblproceduretype" 
+msgstr "Procedure Type" 
+
+msgid "lblwitnesslastname" 
+msgstr "Witness Last Name" 
+
+msgid "lblviewrate" 
+msgstr "View Rate" 
+
+msgid "lblsummary2fullview" 
+msgstr "Summary 2 Full View" 
+
+msgid "lblofclvljlink" 
+msgstr "SRO office mapping with respective Village" 
+
+msgid "lblconfratesearch" 
+msgstr "Rate Search Configuration" 
+
+msgid "lblsrochecklist" 
+msgstr "SRO Checklist" 
+
+msgid "lblsummary2partialview" 
+msgstr "Summary 2 Partial View" 
+
+msgid "lblSurveynamell" 
+msgstr "Survey Name (Marathi)" 
+
+msgid "lbltabledescen" 
+msgstr "Table Desc.(English)" 
+
+msgid "lbltokengenerationddate" 
+msgstr "Token Generation Date" 
+
+msgid "lblselectbehavior" 
+msgstr "Select Behaviour" 
+
+msgid "lblselsecondfile" 
+msgstr "Select Second File" 
+
+msgid "lblbtnsend" 
+msgstr "Send" 
+
+msgid "lblreasonskipvaluation" 
+msgstr "Reasons For Skipping Valuation" 
+
+msgid "lblreportingofficeremailid1" 
+msgstr "Reporting Officer" 
+
+msgid "lblrevertback_reasons" 
+msgstr "Revert back reasons" 
+
+msgid "lblsearchtokenstatusbydate" 
+msgstr "Search Token Status By Date" 
+
+msgid "lblselcorrectusagerule" 
+msgstr "Select Correct Usage Rule" 
+
+msgid "lblselectfile" 
+msgstr "Select File" 
+
+msgid "lblselfirstfile" 
+msgstr "Select First File" 
+
+msgid "lblselectforms" 
+msgstr "Select Form" 
+
+msgid "lblselectimage" 
+msgstr "Select Image" 
+
+msgid "lblselectitemtype" 
+msgstr "Select Item Type" 
+
+msgid "lblchooseyourrolenote" 
+msgstr "One Role can be selected at a time" 
+
+msgid "lblchooseyourroleclick" 
+msgstr "Click on User Role for further processing" 
+
+msgid "lbldisplay_flag" 
+msgstr "Display (Yes/No)" 
+
+msgid "lblselectoutput" 
+msgstr "Select Output" 
+
+msgid "lblslctprty" 
+msgstr "Select Party" 
+
+msgid "lblenterrmk" 
+msgstr "Enter Remark" 
+
+msgid "lblselectpaymode" 
+msgstr "Select Payment mode" 
+
+msgid "lblserialno" 
+msgstr "Serial No." 
+
+msgid "lblstreetlocality" 
+msgstr "Street/Locality" 
+
+msgid "lblCmpUsageSubsubcat" 
+msgstr "Sub Sub Category (Compare)" 
+
+msgid "lbltatkalappidetails" 
+msgstr "Tatkal Appointment Details" 
+
+msgid "lblusamaincat" 
+msgstr "Usage Main Category" 
+
+msgid "lblreceiptlist" 
+msgstr "Simple Receipt List" 
+
+msgid "lblslotno" 
+msgstr "Slot number" 
+
+msgid "lblsocietyname" 
+msgstr "Society Name" 
+
+msgid "lblemployee" 
+msgstr "Employee " 
+
+msgid "lblsrosearch" 
+msgstr "SRO Search" 
+
+msgid "location_dependancy_flag" 
+msgstr "Location Dependency?" 
+
+msgid "lblstampdutyadjust" 
+msgstr "Stamp Duty Adjustment Details" 
+
+msgid "lblsubdiv_ll" 
+msgstr "Sub Division Name" 
+
+msgid "usage_dependancy_flag" 
+msgstr "Usage Dependency?" 
+
+msgid "lblfunaccept7" 
+msgstr "Accept" 
+
+msgid "lblgetotp" 
+msgstr "Get OTP" 
+
+msgid "lblprovideuname" 
+msgstr "Provide Username" 
+
+msgid "lblsubsubcategorydesc_ll" 
+msgstr "Usage Sub Sub Category" 
+
+msgid "lblevalrulell" 
+msgstr "Valuation Rule (local)" 
+
+msgid "lblvalsubzone" 
+msgstr "Valuation Sub Zone" 
+
+msgid "lblvalzone" 
+msgstr "Valuation Zone" 
+
+msgid "lblVerify" 
+msgstr "Verify" 
+
+msgid "lbltotime" 
+msgstr "To Time" 
+
+msgid "lblflatno_ll" 
+msgstr "Flat No." 
+
+msgid "lblfloorno_ll" 
+msgstr "Floor No." 
+
+msgid "lblforms" 
+msgstr "Forms" 
+
+msgid "lblghoshwaracashbook" 
+msgstr "Goshwara Cash Book" 
+
+msgid "lblgovbodytype" 
+msgstr "Govt. Body Type" 
+
+msgid "lblinspectionsearch" 
+msgstr "Inspection Search" 
+
+msgid "lblratesearch" 
+msgstr "Rate Search" 
+
+msgid "lblrefdocno" 
+msgstr "Reference Doc No." 
+
+msgid "lbllangcode" 
+msgstr "Language Code" 
+
+msgid "lblLateFee" 
+msgstr "Late Fee" 
+
+msgid "lblLevel2" 
+msgstr "Level 2" 
+
+msgid "lbldocdate" 
+msgstr "Link Document Date" 
+
+msgid "lblcashreg" 
+msgstr "Cash Register" 
+
+msgid "lblconsiderationamount" 
+msgstr "Consideration Amount" 
+
+msgid "lblcurrentpass" 
+msgstr "Current password" 
+
+msgid "lbldipositamt" 
+msgstr "Deposit Amount" 
+
+msgid "lbldocdtls" 
+msgstr "Document Details" 
+
+msgid "lbldocregsumm1" 
+msgstr "Document Registration Summary I" 
+
+msgid "lblchkrateavailable" 
+msgstr "Check Rate Available" 
+
+msgid "lblCofirmVillageMappingCode" 
+msgstr "Cofirm Village Mapping Code" 
+
+msgid "lbedeactivate" 
+msgstr "Deactivate" 
+
+msgid "lbldesc" 
+msgstr "Description" 
+
+msgid "lbldocpresentation" 
+msgstr "Document Presentation" 
+
+msgid "lblngdrsdashboard" 
+msgstr "NGDRS DASHBOARD" 
+
+msgid "lblleaseandlicensedetails" 
+msgstr "Leave And License Details" 
+
+msgid "lblselsearchtype" 
+msgstr "Select Search Type" 
+
+msgid "lblregconfig" 
+msgstr "Registration Configuration" 
+
+msgid "lblregno" 
+msgstr "Registration No." 
+
+msgid "lblrptempname" 
+msgstr "Reporting Employee Name" 
+
+msgid "lblreportofficerid" 
+msgstr "Reporting Officer ID" 
+
+msgid "lblsequjenthumbdevice" 
+msgstr "Secugen Thumb Device" 
+
+msgid "lblulbtypeid" 
+msgstr "ULB Type ID" 
+
+msgid "lblmothermname" 
+msgstr "Mother Middle Name" 
+
+msgid "lblinterfaceuserid" 
+msgstr "Interface User Id" 
+
+msgid "lblemployeeregi" 
+msgstr "Employee Registration" 
+
+msgid "lblrpthead" 
+msgstr "Employee Report List" 
+
+msgid "lblemptranshead" 
+msgstr "Employee Transfer" 
+
+msgid "lblEncumbrance" 
+msgstr "Encumbrance Certificate" 
+
+msgid "lblentercaptcha" 
+msgstr "Enter Captcha Code" 
+
+msgid "lblfatherlname" 
+msgstr "Father Last Name" 
+
+msgid "lblengdatarequired" 
+msgstr "English data entry is compulsory." 
+
+msgid "lblEnterVillageMappingCode" 
+msgstr "Enter Village Mapping Code" 
+
+msgid "lblexcessamt" 
+msgstr "Excess Amount" 
+
+msgid "lblexecutiondate" 
+msgstr "Execution Date" 
+
+msgid "lblexemptionappliedon" 
+msgstr "Exemption Applied on" 
+
+msgid "lblisitemrate" 
+msgstr "Is Item rate?" 
+
+msgid "lblmaxresult" 
+msgstr "Max val Formula Result" 
+
+msgid "lblmaxval" 
+msgstr "Max Value" 
+
+msgid "lblvalidationrule" 
+msgstr "Select Validation Rule" 
+
+msgid "lblextinterfielddetails" 
+msgstr "External Interface Field Details" 
+
+msgid "lblfmlyname" 
+msgstr "Family Name" 
+
+msgid "lblfeesitem" 
+msgstr "Fee Item" 
+
+msgid "lblfeeitemlistdesc" 
+msgstr "Fee Item List Description" 
+
+msgid "lblpaymentmode" 
+msgstr "Fee Payment Mode" 
+
+msgid "lblselectstate" 
+msgstr "Select State/ UT" 
+
+msgid "lblremark" 
+msgstr "Remark" 
+
+msgid "lblformatfield" 
+msgstr "Format Field" 
+
+msgid "lblisstamppurchaser" 
+msgstr "Is Stamp Purchaser" 
+
+msgid "lblnoofpages" 
+msgstr "No. of Pages" 
+
+msgid "lblispresenter" 
+msgstr "Is Presenter" 
+
+msgid "lblsearch" 
+msgstr "Search" 
+
+msgid "lblvlglvlmap" 
+msgstr "Location Level Mapping" 
+
+msgid "lblmname" 
+msgstr "Middle Name" 
+
+msgid "lblmotherfname_ll" 
+msgstr "Mother's First Name" 
+
+msgid "lblmothermname_ll" 
+msgstr "Mother's Middle Name" 
+
+msgid "lblolddockdate" 
+msgstr "Old Document Date" 
+
+msgid "lbllistofnamesondock" 
+msgstr "Old Reference Document" 
+
+msgid "lblorder" 
+msgstr "Order" 
+
+msgid "lblotherdetails" 
+msgstr "Other Details" 
+
+msgid "lblnewpaymenthead" 
+msgstr "Other Fees" 
+
+msgid "lblpartylastname" 
+msgstr "Party Last Name" 
+
+msgid "lblpartyname_ll" 
+msgstr "Party Name" 
+
+msgid "lblpartytypeflag" 
+msgstr "Party Type Flag" 
+
+msgid "lblgerrptbyid" 
+msgstr "Get Record By" 
+
+msgid "lblpaymenthead" 
+msgstr "Payment Head" 
+
+msgid "lbllocaldataentry" 
+msgstr "Local Language For Data Entry" 
+
+msgid "lblmarketvalue" 
+msgstr "Market Value" 
+
+msgid "lblmaxvalueformula" 
+msgstr "Max Value Formula" 
+
+msgid "lblmobileno" 
+msgstr "Mobile No." 
+
+msgid "lblpaymetinfo" 
+msgstr "Payment Information" 
+
+msgid "lblpaymode" 
+msgstr "Payment Mode" 
+
+msgid "lblfieldmaster" 
+msgstr "Field Master" 
+
+msgid "lblpresentation" 
+msgstr "Presentation" 
+
+msgid "lblpreofcname" 
+msgstr "Previous Office Name" 
+
+msgid "lbldocregno" 
+msgstr "Registered Document No." 
+
+msgid "lblregcomplete" 
+msgstr "Registration Completed" 
+
+msgid "lblnewentry" 
+msgstr "New Entry" 
+
+msgid "lblregdate" 
+msgstr "Registration Date" 
+
+msgid "lblregdt" 
+msgstr "Registration Date" 
+
+msgid "lblregmainmenu" 
+msgstr "Registration Main Menu" 
+
+msgid "lblrejected" 
+msgstr "Rejected" 
+
+msgid "lblpropdetailsandotherdetails" 
+msgstr "Property Boundaries And Other Details" 
+
+msgid "lblwitnessfullname" 
+msgstr "Witness Full Name" 
+
+msgid "lbldocpresenrmk" 
+msgstr "Document Presentation Remark" 
+
+msgid "lblexecutiontype" 
+msgstr "Document Execution Type" 
+
+msgid "lblsubmissiondetails" 
+msgstr "Document Submission Office Details" 
+
+msgid "lbldoyouuse" 
+msgstr "Do You Want to Use ?" 
+
+msgid "lblinspection" 
+msgstr "Property Inspection" 
+
+msgid "lblrequiredoc" 
+msgstr "Red Star(*) Indicates Mandatory Document" 
+
+msgid "lblReferenceNo" 
+msgstr "Reference" 
+
+msgid "lblregsubmenu" 
+msgstr "Registration Sub Menu" 
+
+msgid "lblregsubsubmenu" 
+msgstr "Registration Sub Sub Menu" 
+
+msgid "lblreleasedoclist" 
+msgstr "Released Document List" 
+
+msgid "lblrollid" 
+msgstr "Role ID" 
+
+msgid "lblrolename" 
+msgstr "Role Name" 
+
+msgid "lblsdamt" 
+msgstr "SD Amount" 
+
+msgid "lblreqforcertcopy" 
+msgstr "Request For Certified Copy" 
+
+msgid "lblreserveappointment" 
+msgstr "Reserved Appointment" 
+
+msgid "lbluserpermission" 
+msgstr "Role Permission" 
+
+msgid "lblselectshift" 
+msgstr "Select Shift" 
+
+msgid "lblsendotp" 
+msgstr "Send OTP" 
+
+msgid "lblselectformname" 
+msgstr "Select Form Name" 
+
+msgid "lblselectlang" 
+msgstr "Select Language" 
+
+msgid "lblnewdock" 
+msgstr "New Document" 
+
+msgid "lblsurveydoordetails" 
+msgstr "Survey/Door No. Details" 
+
+msgid "lblselectmaxpara" 
+msgstr "Select Parameter" 
+
+msgid "lblviewSD" 
+msgstr "View Stamp Duty" 
+
+msgid "lbluserdependency2" 
+msgstr "Zone Number" 
+
+msgid "lblfieldcode" 
+msgstr "Field Code" 
+
+msgid "lblfile_is_already_uploaded" 
+msgstr "File is Already Uploaded" 
+
+msgid "lblfinalresult" 
+msgstr "Final Result" 
+
+msgid "lblfinalsave" 
+msgstr "Final Save" 
+
+msgid "lblfinalstampdutyexemption" 
+msgstr "Final stamp duty exemption will be decided by SRO only." 
+
+msgid "lblfloorno" 
+msgstr "Floor No." 
+
+msgid "lblfollowingreason" 
+msgstr "Following are the reasons" 
+
+msgid "lblunitmapping" 
+msgstr "Unit Mapping" 
+
+msgid "lbltermancondtion" 
+msgstr "Terms And Conditions" 
+
+msgid "lblmotherfname" 
+msgstr "Mother First Name" 
+
+msgid "lblforgotpassword" 
+msgstr "Forgot Password" 
+
+msgid "lblCmpUsamaincat" 
+msgstr "Main Category (Compare)" 
+
+msgid "lblformatfielddesc" 
+msgstr "Format Field Description" 
+
+msgid "lblformfieldlinkage" 
+msgstr "Form Field Linkage" 
+
+msgid "lblforwartouser" 
+msgstr "Forward To User" 
+
+msgid "lblfromdate" 
+msgstr "From Date" 
+
+msgid "lblfromoffice" 
+msgstr "From Office" 
+
+msgid "lblfromtime" 
+msgstr "From Time" 
+
+msgid "lblfullname" 
+msgstr "Full Name" 
+
+msgid "lblgender" 
+msgstr "Gender" 
+
+msgid "lblhaveexemption" 
+msgstr "Have Exemption?" 
+
+msgid "lblhintqst" 
+msgstr "Hint Question" 
+
+msgid "lblidentificationmark1_ll" 
+msgstr "Identification Mark 1" 
+
+msgid "lblidentificationfullname" 
+msgstr "Identifier Full Name" 
+
+msgid "lblidentificationlastname" 
+msgstr "Identifier Last Name" 
+
+msgid "lblidentificationmiddlename" 
+msgstr "Identifier Middle Name" 
+
+msgid "lblidproof" 
+msgstr "Id Proof" 
+
+msgid "lblmodulename" 
+msgstr "Module Name" 
+
+msgid "lblnameeneng" 
+msgstr "Name (English)" 
+
+msgid "lblnewvaluation" 
+msgstr "New Valuation" 
+
+msgid "lblofficenamell" 
+msgstr "Office Name Local" 
+
+msgid "lblsummery2" 
+msgstr "Summery 2" 
+
+msgid "lblshowsurveyno" 
+msgstr "Show Plot Number" 
+
+msgid "lblattrivalue" 
+msgstr "Plot / Khatian " 
+
+msgid "lbloperatorname" 
+msgstr "Operator Name" 
+
+msgid "lblotheroptions" 
+msgstr "Other Options" 
+
+msgid "lblOverrides" 
+msgstr "Overrides" 
+
+msgid "lblpaidamt" 
+msgstr "Paid Amount" 
+
+msgid "lblpartymiddlename" 
+msgstr "Party Middle Name " 
+
+msgid "lblwitnessfields" 
+msgstr "Witness Fields" 
+
+msgid "standard_units" 
+msgstr "Standard Units" 
+
+msgid "lblSurveynameen" 
+msgstr "Survey Name (English)" 
+
+msgid "lblupdateordeleterecord" 
+msgstr "Update Or Delete Record" 
+
+msgid "lblyourdocument" 
+msgstr "Your Document" 
+
+msgid "lblclose" 
+msgstr "Close" 
+
+msgid "lbldepreciation" 
+msgstr "Depreciation " 
+
+msgid "lblresendotp" 
+msgstr "Resend OTP" 
+
+msgid "btnsave" 
+msgstr "Save" 
+
+msgid "lblscanpendingdock" 
+msgstr "Scan Pending Document" 
+
+msgid "lblformula" 
+msgstr "Formula" 
+
+msgid "lblconsideration_amount" 
+msgstr "Consideration amount" 
+
+msgid "lblbtndelete" 
+msgstr "Delete" 
+
+msgid "lbldepredesc" 
+msgstr "Depreciation Description" 
+
+msgid "lblDivisionname_ll" 
+msgstr "Division Name" 
+
+msgid "lblgeneralinfo1" 
+msgstr "Document Entry" 
+
+msgid "lbldownload" 
+msgstr "Download" 
+
+msgid "lblcityarea" 
+msgstr "City  Area / Valuation Zone" 
+
+msgid "lblformname" 
+msgstr "Form Name" 
+
+msgid "lbldob" 
+msgstr "Date Of Birth" 
+
+msgid "stamp_duty_applicable" 
+msgstr "Stamp Duty Applicable?" 
+
+msgid "lblfeecalculation" 
+msgstr "Stamp Duty Calculation" 
+
+msgid "lbldocumentdownload" 
+msgstr "Document Download" 
+
+msgid "lbldocregsumm2" 
+msgstr "Document Registration Summary II" 
+
+msgid "lbldocrejectremak" 
+msgstr "Document Reject Remark " 
+
+msgid "lblfatherfname" 
+msgstr "Father First Name" 
+
+msgid "lblinterfacefieldtype" 
+msgstr "Interface Field Type" 
+
+msgid "lblorder_date" 
+msgstr "Order Date" 
+
+msgid "lblorgname" 
+msgstr "Organization Name" 
+
+msgid "lblscanner" 
+msgstr "Scanner" 
+
+msgid "lblseldate" 
+msgstr "Select Date" 
+
+msgid "lblpartytype" 
+msgstr "Select Party Type" 
+
+msgid "lblrounding" 
+msgstr "Select Rounding" 
+
+msgid "lblsurveyraterecord" 
+msgstr "Survey Rate Record" 
+
+msgid "lblstamp1" 
+msgstr "Stamp1" 
+
+msgid "lblstamp2" 
+msgstr "Stamp2" 
+
+msgid "lblrelease" 
+msgstr "Release" 
+
+msgid "lblindexregister2" 
+msgstr "Index Register 2" 
+
+msgid "lblfinalstamp" 
+msgstr "Final Stamp" 
+
+msgid "lblitemrate" 
+msgstr "Item Rate" 
+
+msgid "lblnakshano" 
+msgstr "Naksha No3 " 
+
+msgid "lblnewpaymentverification" 
+msgstr "Online Payment" 
+
+msgid "lblSurvey" 
+msgstr "Survey Label" 
+
+msgid "lblmanualregno" 
+msgstr "Manual Registration No." 
+
+msgid "lblvlgmapphead" 
+msgstr "Mapping" 
+
+msgid "lblpropertyunit" 
+msgstr "Property Unit" 
+
+msgid "lblrangefrom" 
+msgstr "Range From" 
+
+msgid "lblrelievedt" 
+msgstr "Relieve Date" 
+
+msgid "btnrequestotp" 
+msgstr "Request OTP" 
+
+msgid "lblRural" 
+msgstr "Rural" 
+
+msgid "lbltenanttyp" 
+msgstr "Tenant Type" 
+
+msgid "lblsubdiv" 
+msgstr "Sub Division Name" 
+
+msgid "lblusagelinkcategory" 
+msgstr "Usage Category Link" 
+
+msgid "lblusagelinkitemlist" 
+msgstr "Usage Link Item List" 
+
+msgid "lblusagemaincategoryname_ll" 
+msgstr "Usage Main Category Name" 
+
+msgid "lblviewrecord" 
+msgstr "View Record" 
+
+msgid "lblindex3" 
+msgstr "Index 3" 
+
+msgid "lblfineyer" 
+msgstr "Financial Year" 
+
+msgid "lblunit" 
+msgstr "Unit" 
+
+msgid "lblstampdutycalculation" 
+msgstr "Stamp Duty Calculation" 
+
+msgid "lbllandrate" 
+msgstr "Land Rate" 
+
+msgid "lblnote" 
+msgstr "Note:" 
+
+msgid "lblfname" 
+msgstr "First Name" 
+
+msgid "lblpowerofattorney_note3" 
+msgstr "For Power Of Attorney First Enter Main Party Details" 
+
+msgid "lblmultiplerate" 
+msgstr "Multiple Rates or Multiple Arrived Values/Add Sub Rule" 
+
+msgid "lbllandmark" 
+msgstr "Landmark" 
+
+msgid "lblofficeappointtotime" 
+msgstr "Office Appointment Time To" 
+
+msgid "lbllistdesc" 
+msgstr "List Description" 
+
+msgid "lbllocked" 
+msgstr "Locked" 
+
+msgid "lblflags" 
+msgstr "FLAGS" 
+
+msgid "lblprvsadrs" 
+msgstr "Previous Address" 
+
+msgid "lblemailid" 
+msgstr "Email Id" 
+
+msgid "lblerrorcode" 
+msgstr "Error Message" 
+
+msgid "lblpartyfname_ll" 
+msgstr "First Name" 
+
+msgid "lblflat" 
+msgstr "Flat No." 
+
+msgid "lblempjoin" 
+msgstr "Employee Joining" 
+
+msgid "lbldeposite" 
+msgstr "Enter Deposite Details" 
+
+msgid "lblenterdocregno" 
+msgstr "Enter Document Reg. No." 
+
+msgid "lblgovt_nongovt" 
+msgstr "Government/Non-Government" 
+
+msgid "lblenterotp" 
+msgstr "Enter OTP" 
+
+msgid "lblfathermname" 
+msgstr "Father Middle Name" 
+
+msgid "lblfinal" 
+msgstr "Final" 
+
+msgid "lblidenmasterlist" 
+msgstr "Identifier Master List" 
+
+msgid "lblRateRevFlag" 
+msgstr "Is Rate Revision Formula Required" 
+
+msgid "lblitem_desc_id" 
+msgstr "Item Description" 
+
+msgid "lblSurveyname" 
+msgstr "Survey Label Name" 
+
+msgid "lbluploadsizelimit" 
+msgstr "Upload Size Limit" 
+
+msgid "lblyes" 
+msgstr "Yes" 
+
+msgid "lbldocumenttitle" 
+msgstr "Document Title" 
+
+msgid "lbladminlvlblocks" 
+msgstr "Administrative Level Blocks" 
+
+msgid "lbldivlvl2" 
+msgstr "Level 2" 
+
+msgid "lblofccontact" 
+msgstr "Office Contact" 
+
+msgid "lblofficedetails" 
+msgstr "Office Details" 
+
+msgid "lblaliasname" 
+msgstr "Alias Name (If Any)" 
+
+msgid "lblalldeedwriter" 
+msgstr "All Deed Writer" 
+
+msgid "lblamtonline" 
+msgstr "Amount (Online)" 
+
+msgid "lblofficehierarchy" 
+msgstr "Office Hierarchy" 
+
+msgid "lblofficeno" 
+msgstr "Office No." 
+
+msgid "lblonlinepay" 
+msgstr "Online Pay" 
+
+msgid "lblpartyfname" 
+msgstr "Party First Name" 
+
+msgid "lblpartyfullname_ll" 
+msgstr "Party Full Name" 
+
+msgid "lblpropertynotavailable" 
+msgstr "Property Not Available" 
+
+msgid "lblpropscreen" 
+msgstr "Property Screen" 
+
+msgid "lblprovideans" 
+msgstr "Provide Answer" 
+
+msgid "lblprovideotp" 
+msgstr "Provide OTP" 
+
+msgid "lblratefactor" 
+msgstr "Rate Factor" 
+
+msgid "lblratefactorconstructionandagelinkage" 
+msgstr "Rate Factor (Construction And Age Linkage)" 
+
+msgid "lblratenotavailable" 
+msgstr "Rate Not Available" 
+
+msgid "lblrefregdocdate" 
+msgstr "Reference/Registered Doc.Date" 
+
+msgid "lblreportinginfo" 
+msgstr "Reporting Information" 
+
+msgid "lblreset" 
+msgstr "Reset" 
+
+msgid "lblresultdoclists" 
+msgstr "Result Document List" 
+
+msgid "lblrole" 
+msgstr "Role Creation" 
+
+msgid "lblruleapplicable" 
+msgstr "Rule Applicable" 
+
+msgid "lbllocationlevel1" 
+msgstr "Location Level 1 Name" 
+
+msgid "lbllocationlevellist1" 
+msgstr "Location Level 1 List " 
+
+msgid "lblstate" 
+msgstr "State/ UT" 
+
+msgid "lbllangconfig" 
+msgstr "State/ UT Language Configuration" 
+
+msgid "lblsubsubmenuname" 
+msgstr "Sub Sub Menu Name" 
+
+msgid "lblofcregdoc" 
+msgstr "Office Wise Registered Document" 
+
+msgid "lblgovbodylistname" 
+msgstr "Governing Body List Name" 
+
+msgid "lblmotherlname" 
+msgstr "Mother Last Name" 
+
+msgid "lblname" 
+msgstr "Name" 
+
+msgid "lblsubccategory" 
+msgstr "Usage Sub Sub Category" 
+
+msgid "lbluserdependencyflag1" 
+msgstr "User Dependency Flag 1" 
+
+msgid "lbluserdependencyflag2" 
+msgstr "User Dependency Flag 2" 
+
+msgid "lblvalidateformonths" 
+msgstr "Validate For Months" 
+
+msgid "lblpartycategoryfieldhead" 
+msgstr "Party Category Field" 
+
+msgid "lblempname" 
+msgstr "Employee Name" 
+
+msgid "lblholiday" 
+msgstr "Holiday" 
+
+msgid "lblnewpass" 
+msgstr "New Password" 
+
+msgid "lbladmzp" 
+msgstr "ZP" 
+
+msgid "lblgetrecordby" 
+msgstr "Get Record By" 
+
+msgid "lblfunctionid" 
+msgstr "Function Id" 
+
+msgid "exemption_applicable" 
+msgstr "Exemption Applicable?" 
+
+msgid "lblfathermname_ll" 
+msgstr "Father's Middle Name" 
+
+msgid "FeeCalculationDesc" 
+msgstr "Fee Calculation Description" 
+
+msgid "lblusageflagapplicable" 
+msgstr "Is Usage Flag Applicable ?" 
+
+msgid "lblappointmentdt" 
+msgstr "Appointment Date" 
+
+msgid "lblYear" 
+msgstr "By Year" 
+
+msgid "lblappointmentdetails" 
+msgstr "Appointment Details" 
+
+msgid "lblbiometric" 
+msgstr "Biometric" 
+
+msgid "lblbiometricavailable" 
+msgstr "Biometric Available" 
+
+msgid "lblbiodivicenotworkingindex" 
+msgstr "Biometric device not working Index Finger" 
+
+msgid "lblMonth" 
+msgstr "By Month" 
+
+msgid "lblcalMV" 
+msgstr "Calculate MV" 
+
+msgid "lblcashbook" 
+msgstr "Cash Book" 
+
+msgid "lblcashreceiptdetails" 
+msgstr "Cash Receipt Details" 
+
+msgid "lblchangepass" 
+msgstr "Change Password" 
+
+msgid "lblchangeprofile" 
+msgstr "Change Profile" 
+
+msgid "lblbtncheck" 
+msgstr "Check" 
+
+msgid "lblcitizentype" 
+msgstr "Citizen Type" 
+
+msgid "lblcmpname" 
+msgstr "Company Name" 
+
+msgid "lblconfirmpass" 
+msgstr "Confirm Password" 
+
+msgid "lblcounterpay" 
+msgstr "Counter Pay" 
+
+msgid "lblcourtorderdate" 
+msgstr "Court Order Date" 
+
+msgid "lblcityvillage1" 
+msgstr "Revenue Village/Mouja" 
+
+msgid "lblcourtorderno" 
+msgstr "Court Order No." 
+
+msgid "lblcurrentstatus" 
+msgstr "Current Status" 
+
+msgid "lbldataentry" 
+msgstr "Data Entry Submission" 
+
+msgid "lblpresentationdate" 
+msgstr "Date of Presentation" 
+
+msgid "lblaliasname_ll" 
+msgstr "Alias Name" 
+
+msgid "lbllock" 
+msgstr "Lock" 
+
+msgid "lblstamps" 
+msgstr "STAMPS" 
+
+msgid "lblstreet" 
+msgstr "Street" 
+
+msgid "subruleDesc" 
+msgstr "Sub Rule Description" 
+
+msgid "lbldone" 
+msgstr "Done" 
+
+msgid "lblidentifirecompulsarynote" 
+msgstr "For Party Wise Identifier ,Entry of both parties identifier is compulsory" 
+
+msgid "lblgrandfatherfullname" 
+msgstr "Grand Father Full Name" 
+
+msgid "lblidentificationfields" 
+msgstr "Identification Fields" 
+
+msgid "lblidentifiertypeheader" 
+msgstr "Identifier Type" 
+
+msgid "lbllandrecdatafetching" 
+msgstr "Land Record data fetching attributes" 
+
+msgid "lblloading" 
+msgstr "Loading ...... Please Wait!" 
+
+msgid "lblpaymentmodeverification" 
+msgstr "Payment Verification" 
+
+msgid "lblidproofno" 
+msgstr "Id Proof No." 
+
+msgid "lblimgpath" 
+msgstr "Image Path" 
+
+msgid "lblinspectionrpt" 
+msgstr "Inspection Report" 
+
+msgid "lbloffice1" 
+msgstr "Office" 
+
+msgid "boundries_north_ll" 
+msgstr "North Boundries" 
+
+msgid "lblofficeid" 
+msgstr "Office ID" 
+
+msgid "lblofficename" 
+msgstr "Office Name" 
+
+msgid "lbloldcencuscode" 
+msgstr "Old Census Code" 
+
+msgid "lblolddocno" 
+msgstr "Old Document Number" 
+
+msgid "lbloptions" 
+msgstr "Options" 
+
+msgid "lbleditmsg" 
+msgstr "Record Updated Successfully." 
+
+msgid "lblnotsavemsg" 
+msgstr "Record Not Saved." 
+
+msgid "lblorganizationname" 
+msgstr "Organization Name" 
+
+msgid "lblpancardno" 
+msgstr "PAN Card" 
+
+msgid "lblpartialdownload" 
+msgstr "Partial Download" 
+
+msgid "lblparty" 
+msgstr "Party" 
+
+msgid "lblpartycategoryshow" 
+msgstr "Party Category" 
+
+msgid "lblprtyname" 
+msgstr "Party Name" 
+
+msgid "lblpassword" 
+msgstr "Password" 
+
+msgid "lblpending" 
+msgstr "Pending" 
+
+msgid "lblphotocapture" 
+msgstr "Photo Capture" 
+
+msgid "lbltokenno" 
+msgstr "Pre Reg. No." 
+
+msgid "lblinputitem" 
+msgstr "Input Item" 
+
+msgid "lblstamp3" 
+msgstr "stamp3" 
+
+msgid "lblanexture" 
+msgstr "Pre Reg. Summary" 
+
+msgid "lblpresentationexception" 
+msgstr "Presentation Exemption" 
+
+msgid "lblregscreenandarticlemapping" 
+msgstr "Registration Screen And Article Mapping" 
+
+msgid "lblreprintdocsummeryrpt" 
+msgstr "Reprint Document Summary Report" 
+
+msgid "lblreprintvaluation" 
+msgstr "Reprint Valuation" 
+
+msgid "lblSaveSubRule" 
+msgstr "Save Sub Rule" 
+
+msgid "lblsearchvillage" 
+msgstr "Search Records By Village" 
+
+msgid "lblsubmenuflag" 
+msgstr "SubMenu Flag" 
+
+msgid "lbldispose" 
+msgstr "Submit" 
+
+msgid "lblvalamount" 
+msgstr "Valuation Amount" 
+
+msgid "lblCmpUsagesubcat" 
+msgstr "Sub Category (Compare)" 
+
+msgid "lbltdlogstat" 
+msgstr "Today’s Login Status" 
+
+msgid "lbltotal" 
+msgstr "Total Amount" 
+
+msgid "user_defined_dependency2_id" 
+msgstr "User Defined Dependency 2 ID" 
+
+msgid "lbladmissionlists" 
+msgstr "Admission List" 
+
+msgid "lbladmissionpending" 
+msgstr "Admission Pending" 
+
+msgid "lbldepamt" 
+msgstr "Amount Paid" 
+
+msgid "lblengineerq" 
+msgstr "Engineer" 
+
+msgid "lblgraduateq" 
+msgstr "Graduate" 
+
+msgid "lblpostgraduateq" 
+msgstr "Post Graduate" 
+
+msgid "lblselectcorrectloc" 
+msgstr "Select Correct locations
+" 
+
+msgid "lblprofessionalq" 
+msgstr "Professional" 
+
+msgid "lblviewcurrentrecord" 
+msgstr "View Current Record" 
+
+msgid "lblviewsummer2" 
+msgstr "View Summary 2" 
+
+msgid "lblwitnessinfo" 
+msgstr "Witness Information" 
+
+msgid "lbltitlename" 
+msgstr "Title Name" 
+
+msgid "lblTokenStauts" 
+msgstr "Token Status" 
+
+msgid "lblUsagesubcategoryname" 
+msgstr "Usage Sub Category Name" 
+
+msgid "lblaudittrial" 
+msgstr "Document Audit" 
+
+msgid "lblbalamt" 
+msgstr "Balance Amount" 
+
+msgid "lbldocumentdisposal" 
+msgstr "Document Disposal" 
+
+msgid "lblblocksectorlocation_ll" 
+msgstr "Block Sector Location" 
+
+msgid "lblboundrywest" 
+msgstr "Boundaries West" 
+
+msgid "lbldocrno" 
+msgstr "Document Number Format" 
+
+msgid "lblconfval" 
+msgstr "Configuration Value" 
+
+msgid "btnsearch" 
+msgstr "Search" 
+
+msgid "lbldocrelease" 
+msgstr "Document Release" 
+
+msgid "lblcontactperdetails" 
+msgstr "Contact Person ID Details" 
+
+msgid "lblCourtOrderDate" 
+msgstr "Court Order Date" 
+
+msgid "lbldocumentstatusdesc" 
+msgstr "Document Status Description" 
+
+msgid "lblcreationdate" 
+msgstr "Creation Date" 
+
+msgid "lbldlrusagecode" 
+msgstr "DOLR Usage Code" 
+
+msgid "lblcurrenttable" 
+msgstr "Current Table" 
+
+msgid "lblexecutiondt" 
+msgstr "Date of Execution" 
+
+msgid "lbldepref" 
+msgstr "Deposit Refundable" 
+
+msgid "lblderivedresult" 
+msgstr "Derived Result" 
+
+msgid "lbllistofsavedparties" 
+msgstr "Details of Parties" 
+
+msgid "lblUsagesubcategoryname_ll" 
+msgstr "Usage Sub Category Name" 
+
+msgid "lblvaluationc" 
+msgstr "Valuation" 
+
+msgid "lblruledetails" 
+msgstr "Valuation Rule" 
+
+msgid "lblsubrule" 
+msgstr "Sub Rule" 
+
+msgid "lblsubruledetails" 
+msgstr "Sub Rule Detail" 
+
+msgid "lblvaluationdetails" 
+msgstr "Valuation Details" 
+
+msgid "lblpartywiseuploaddoc" 
+msgstr "Party wise Upload Document" 
+
+msgid "lbltaluka" 
+msgstr "Revenue Circle" 
+
+msgid "lblselecttype" 
+msgstr "Select Type" 
+
+msgid "lblverificompleted" 
+msgstr "Verification Completed ?" 
+
+msgid "lblvaluationreq" 
+msgstr "Why Valuation Not Required" 
+
+msgid "lblinterfacedescription" 
+msgstr "Interface Description" 
+
+msgid "lbluploadfileformat" 
+msgstr "Upload File Format" 
+
+msgid "lblviewupdate" 
+msgstr "View / Update Record" 
+
+msgid "lblstampdutydiff" 
+msgstr "Stamp Duty Difference" 
+
+msgid "lblfatherfname_ll" 
+msgstr "Father's First Name" 
+
+msgid "lblfromuser" 
+msgstr "From User" 
+
+msgid "lblfulldownload" 
+msgstr "Full Download" 
+
+msgid "lblform60" 
+msgstr "Upload Form 60/61" 
+
+msgid "lblattrivalue_part1" 
+msgstr "Hissa 1" 
+
+msgid "lbllocalbody" 
+msgstr "Local Governing Body" 
+
+msgid "lblminorfunlisthead" 
+msgstr "Minor Function List" 
+
+msgid "lblnotavailable" 
+msgstr "Not Available" 
+
+msgid "lblofficecode" 
+msgstr "Office Code" 
+
+msgid "lblofccnt" 
+msgstr "Office Count" 
+
+msgid "lblofcwiseappointment" 
+msgstr "Office Wise Appointment" 
+
+msgid "lblofcincome" 
+msgstr "Office Wise Income" 
+
+msgid "lblnewpaymententry" 
+msgstr "Offline Payment Entry" 
+
+msgid "lblitarhakk_ll" 
+msgstr "Other Claims" 
+
+msgid "lblpartydetails" 
+msgstr "Party Details" 
+
+msgid "lblpartyname" 
+msgstr "Party Name" 
+
+msgid "lblitemlistname" 
+msgstr "Item List Name" 
+
+msgid "lblLevel1list" 
+msgstr "Level 1 List" 
+
+msgid "lblLevel4" 
+msgstr "Level 4" 
+
+msgid "lbllocation" 
+msgstr "Location" 
+
+msgid "lblnamelocal" 
+msgstr "Name (Local)" 
+
+msgid "lblofficeshift" 
+msgstr "Office Shift" 
+
+msgid "lblolddockid" 
+msgstr "Old Document No." 
+
+msgid "lblOptionalFlag" 
+msgstr "Optional Flag" 
+
+msgid "lbloutputitem" 
+msgstr "Output Items" 
+
+msgid "lblitemcode" 
+msgstr "Item Code" 
+
+msgid "lblpartylastname_ll" 
+msgstr "Party Last Name" 
+
+msgid "lblpayername" 
+msgstr "Payer Name" 
+
+msgid "lblpincode" 
+msgstr "Pin Code" 
+
+msgid "lblCertifiedCopy" 
+msgstr "Certificate Copy" 
+
+msgid "lblcheckappoavailability" 
+msgstr "Check Appointment Availability" 
+
+msgid "lblrepassword" 
+msgstr "Confirm Your Password" 
+
+msgid "lblconsdesc" 
+msgstr "Construction Description" 
+
+msgid "lbl_court_order_date" 
+msgstr "Court Order Date" 
+
+msgid "lblsellerandpurrequired" 
+msgstr "Data entry of both parties is compulsory and set one party as Presenter compulsory." 
+
+msgid "lblcondonation_order" 
+msgstr "Delay Condonation Order" 
+
+msgid "lbleffedate" 
+msgstr "Effective Date" 
+
+msgid "lblfeedescname" 
+msgstr "Fee Description Name" 
+
+msgid "lblprint" 
+msgstr "Print" 
+
+msgid "lblprohibitedprop" 
+msgstr "Prohibited Property Details" 
+
+msgid "lblprohibitiondesc" 
+msgstr "Prohibition Description" 
+
+msgid "lblmenudesc" 
+msgstr "Menu Description" 
+
+msgid "lblmenus" 
+msgstr "Menus List" 
+
+msgid "lblmodulefunctions" 
+msgstr "Module Functions" 
+
+msgid "lblmodulepermission" 
+msgstr "Module Permission" 
+
+msgid "lblregtype" 
+msgstr "Registration Type" 
+
+msgid "lblrptview" 
+msgstr "Report" 
+
+msgid "lblwitnesshead" 
+msgstr "Witness" 
+
+msgid "lblmanual_reg_flag" 
+msgstr "Required for manual registration" 
+
+msgid "lblwitnessfirstname" 
+msgstr "Witness First Name " 
+
+msgid "btnupdate" 
+msgstr "Update" 
+
+msgid "lblwitnesslists" 
+msgstr "Witness Lists" 
+
+msgid "lblwrittentopartytype" 
+msgstr "Written To Party Type" 
+
+msgid "lblprohibitionenddt" 
+msgstr "Prohibition End Date" 
+
+msgid "lblratesearchcondition" 
+msgstr "Rate Search Condition" 
+
+msgid "lbleregistration" 
+msgstr "E - Registration Applicable" 
+
+msgid "lblusageoutputitem" 
+msgstr "Usage Item Output" 
+
+msgid "lblusageitemname" 
+msgstr "Usage item name" 
+
+msgid "lblsummery1" 
+msgstr "Summery 1" 
+
+msgid "lblpaymentprocess" 
+msgstr "Payment Process" 
+
+msgid "lblnotfoundmsg" 
+msgstr "Record Not Found." 
+
+msgid "lblnotdeletemsg" 
+msgstr "The Record Not Deleted." 
+
+msgid "lblempselect" 
+msgstr "Select Employee" 
+
+msgid "lbldeletemsg" 
+msgstr "The Record Has Been Deleted." 
+
+msgid "lblnoteditmsg" 
+msgstr "Record Not Updated." 
+
+msgid "btnesign" 
+msgstr "Esign" 
+
+msgid "lblappontmentquota" 
+msgstr "Appointment Quota" 
+
+msgid "lblcontactperadd" 
+msgstr "Contact Person Address" 
+
+msgid "lblcorporation" 
+msgstr "Corporation" 
+
+msgid "lblcorpcouncillist" 
+msgstr "Corporation Class List" 
+
+msgid "lblcurrofc" 
+msgstr "Current Office" 
+
+msgid "lblcurrentyear" 
+msgstr "Current Year" 
+
+msgid "lblinterfacefielddesc" 
+msgstr "Interface Field Description" 
+
+msgid "lblcontactperson" 
+msgstr "Authorized Person Name" 
+
+msgid "lblboundriesnorth" 
+msgstr "Boundaries North" 
+
+msgid "lbldisplayongeninfocitizenentry" 
+msgstr "Display on general information in citizen entry ?" 
+
+msgid "lblsummery" 
+msgstr "Summary" 
+
+msgid "lblsubdsrocode" 
+msgstr "Sub Division Code" 
+
+msgid "lbladmblockvillage" 
+msgstr "Village" 
+
+msgid "shiftdescription" 
+msgstr "Shift Description" 
+
+msgid "lblview" 
+msgstr "View" 
+
+msgid "lbltah_process_flag" 
+msgstr "Authorized Process (Yes/No)" 
+
+msgid "lblchooseyourrole" 
+msgstr "Choose  User Role" 
+
+msgid "lbladdlang" 
+msgstr "Add Language" 
+
+msgid "article_marathi_activation" 
+msgstr "Article Marathi Activation Flag" 
+
+msgid "lblArticle" 
+msgstr "Article" 
+
+msgid "lblbehaviorpattaern" 
+msgstr "Behaviour Pattern" 
+
+msgid "lblarticaldepfields" 
+msgstr "Article Related Information" 
+
+msgid "lblbiometricdt" 
+msgstr "Biometric Date" 
+
+msgid "lblcheckin" 
+msgstr "Check In" 
+
+msgid "lblbiodivicenotworkingmiddle" 
+msgstr "Biometric device not working Middle Finger" 
+
+msgid "lblcitizenreg" 
+msgstr "Citizen Registration" 
+
+msgid "lbldetails" 
+msgstr "Details" 
+
+msgid "lblalreadyhavevalation" 
+msgstr "Already have an valuation Add here" 
+
+msgid "lblaccepted" 
+msgstr "Accepted" 
+
+msgid "lblamount" 
+msgstr "Amount" 
+
+msgid "lblbtnAdd" 
+msgstr "Add" 
+
+msgid "lbldisposal" 
+msgstr "Disposal Method" 
+
+msgid "lbladditionalstamp" 
+msgstr "Additional Stamp Duty With Social Security Fund" 
+
+msgid "lblpaid_amount_infront_of_sro" 
+msgstr "Amount Paid In Presence of SRO" 
+
+msgid "lbladditionalinfo_ll" 
+msgstr "Addtional Information" 
+
+msgid "lblDivision_ll" 
+msgstr "Division" 
+
+msgid "lbladmblockhead" 
+msgstr "Admin Block Dependency" 
+
+msgid "lbladministrativeblocks" 
+msgstr "Administrative Blocks" 
+
+msgid "Lblcitytown" 
+msgstr "City / Town" 
+
+msgid "lbldockalreadysubmited" 
+msgstr "Document already submitted  at office - " 
+
+msgid "lbladvocatename_en" 
+msgstr "Advocate Name" 
+
+msgid "lblclasstype" 
+msgstr "Class Type" 
+
+msgid "lbladvocatename_ll" 
+msgstr "Advocate Name" 
+
+msgid "lbldownloadpdf" 
+msgstr "Download PDF" 
+
+msgid "lblalltblaudit" 
+msgstr "All Table Audit" 
+
+msgid "lblcommonuploaddoc" 
+msgstr "Common Upload Document" 
+
+msgid "lblcondition" 
+msgstr "Condition" 
+
+msgid "lblusername" 
+msgstr "Username" 
+
+msgid "lblAddress" 
+msgstr "Address" 
+
+msgid "lblalert" 
+msgstr "Alert" 
+
+msgid "lbldellandtype" 
+msgstr "Area Type" 
+
+msgid "lblauthenticationtypedesc" 
+msgstr "Authentication Type Description" 
+
+msgid "lblslot" 
+msgstr "Slot" 
+
+msgid "lblarticlecode" 
+msgstr "Article Code" 
+
+msgid "lblassignroletouser" 
+msgstr "Assign Role To User" 
+
+msgid "lblconstructionrate" 
+msgstr "Construction Rate" 
+
+msgid "lbluid" 
+msgstr "Aadhar No." 
+
+msgid "lblAdditionRateRequired" 
+msgstr "Additional Rate Required" 
+
+msgid "lblactivatebiometricusr" 
+msgstr "Activate Biometric User" 
+
+msgid "lbladdressotherdetails" 
+msgstr "Address/Other Details" 
+
+msgid "lblapplicationtype" 
+msgstr "Application Type" 
+
+msgid "lblarticledepfield" 
+msgstr "Article Dependent Field" 
+
+msgid "lblauthosigndetails" 
+msgstr "Authorized  Signatory Details" 
+
+msgid "lblareaunit" 
+msgstr "Area Unit" 
+
+msgid "lblfunaccept6" 
+msgstr "STAMP 5" 
+
+msgid "lblage" 
+msgstr "Age" 
+
+msgid "lblactivate" 
+msgstr "Activate" 
+
+msgid "lblaction" 
+msgstr "Action" 
+
+msgid "lblhaddname" 
+msgstr "Border Name" 
+
+msgid "lblplsrefpageupdaterule" 
+msgstr "Please Refresh Page to view updated Rule." 
+
+msgid "lblattributetype" 
+msgstr "Attribute Type" 
+
+msgid "lblbiodivicenotworkingthumb" 
+msgstr "Biometric device not working Thumb" 
+
+msgid "lblinprocess" 
+msgstr "Check In Documents" 
+
+msgid "lblreleaseddate" 
+msgstr "Release Date" 
+
+msgid "lblattribute1" 
+msgstr "Attribute 1" 
+
+msgid "lblhaddtype" 
+msgstr "Border Type" 
+
+msgid "lblboundriessouth" 
+msgstr "Boundaries South" 
+
+msgid "lblbuildingnamenofloor" 
+msgstr "Building Name / No. / Floor" 
+
+msgid "lblcertcopy" 
+msgstr "Certified Copy" 
+
+msgid "lbladdrsproof" 
+msgstr "Address Proof Type" 
+
+msgid "lbladjustmentamt" 
+msgstr "Adjustment Amount" 
+
+msgid "lbldeprecitionfactor" 
+msgstr "Depreciation Factor Entry " 
+
+msgid "lbladditionalofc" 
+msgstr "Additional Office" 
+
+msgid "lbladminssionpending" 
+msgstr "Admission Pending" 
+
+msgid "lblauthenticationtype" 
+msgstr "Authentication Type" 
+
+msgid "lbldate" 
+msgstr "Date" 
+
+msgid "lblfinyearinshort" 
+msgstr "Financial Year For Document Number" 
+
+msgid "lblindexregister4" 
+msgstr "Index Register 4" 
+
+msgid "lblsscq" 
+msgstr "10th (SSC)" 
+
+msgid "lblhscq" 
+msgstr "12th (HSC)" 
+
+msgid "lblloginstatistics" 
+msgstr "Login Statistics" 
+
+msgid "lblappointment" 
+msgstr "Appointment" 
+
+msgid "lblappointmentavailability" 
+msgstr "Appointment Availability" 
+
+msgid "lblassignrole" 
+msgstr "Assign Role" 
+
+msgid "lblautosigndetails" 
+msgstr "Authorised signatory Details" 
+
+msgid "lblbuildercmpname" 
+msgstr "Builder/Company Name" 
+
+msgid "lblsearchbydate" 
+msgstr "By Date" 
+
+msgid "lblsaveandcal" 
+msgstr "Calculate & Save" 
+
+msgid "lblcity" 
+msgstr "City" 
+
+msgid "lblchargehandoverlist" 
+msgstr "Charge Handover List" 
+
+msgid "lblbtnchkpropertyprohibition" 
+msgstr "Check Property Prohibition" 
+
+msgid "btncheckpropprohibition" 
+msgstr "Check Property Prohibition" 
+
+msgid "lblcontroller" 
+msgstr "Controller" 
+
+msgid "lbldelayorderno" 
+msgstr "Delay Order No." 
+
+msgid "lbledit" 
+msgstr "Edit" 
+
+msgid "lblpurchaserpropattri" 
+msgstr "Purchaser Property attributes" 
+
+msgid "lblqualification" 
+msgstr "Qualification" 
+
+msgid "lblvaluationnotcalculate" 
+msgstr "Valuation Not Calculated " 
+
+msgid "lblidentificationtype" 
+msgstr "Identification<br>Type" 
+
+msgid "lblrecdetails" 
+msgstr "Record Details" 
+
+msgid "lblapppt" 
+msgstr "Red marked slots are not available." 
+
+msgid "lblrefdocknumber" 
+msgstr "Reference Document No." 
+
+msgid "lblrevertremark" 
+msgstr "Remark" 
+
+msgid "lblsubmenudescloc" 
+msgstr "Sub Menu Description Local" 
+
+msgid "lbllistof712" 
+msgstr "List Of 7/12 Names" 
+
+msgid "lblmode" 
+msgstr "Mode of Payment" 
+
+msgid "lblnoofmonths" 
+msgstr "No. of Months" 
+
+msgid "lblmonth" 
+msgstr "No. of Month's" 
+
+msgid "lblnormatappointment" 
+msgstr "Normal Appointment" 
+
+msgid "lblofficefromtime" 
+msgstr "Office Time From" 
+
+msgid "lblofficetotime" 
+msgstr "Office Time To" 
+
+msgid "lblisboolean" 
+msgstr "Is Boolean ?" 
+
+msgid "lblLabel" 
+msgstr "Label" 
+
+msgid "lbllocalgovbodylist" 
+msgstr "Local Governing Body List" 
+
+msgid "localholidayflag" 
+msgstr "Local Holiday Flag" 
+
+msgid "lbldoctorateq" 
+msgstr "Doctorate" 
+
+msgid "lblduplicatemsg" 
+msgstr "Duplicate Record Found." 
+
+msgid "btntatkalappointment" 
+msgstr "Tatkal Appointment" 
+
+msgid "lblselectrole" 
+msgstr "Select Role" 
+
+msgid "lblpolicestation" 
+msgstr "Police Station" 
+
+msgid "lblsecretque" 
+msgstr "Secret Question" 
+
+msgid "lblpayment" 
+msgstr "Payment" 
+
+msgid "lblpaymetdashboard" 
+msgstr "Payment Details" 
+
+msgid "lblpresenter" 
+msgstr "Presenter" 
+
+msgid "lblratetype" 
+msgstr "Rate Type" 
+
+msgid "lblreject" 
+msgstr "Reject" 
+
+msgid "lblrevertback" 
+msgstr "Revert Back" 
+
+msgid "lblroadvicinity" 
+msgstr "Road Vicinity" 
+
+msgid "lblfeecaldetail" 
+msgstr "Stamp Duty/Registration Charges/Other Charges" 
+
+msgid "lblwitnesstype" 
+msgstr "Witness Type" 
+
+msgid "lblmenudescloc" 
+msgstr "Menu Description Local" 
+
+msgid "lbladmblock" 
+msgstr "Block" 
+
+msgid "lbladmission_pending_remark" 
+msgstr "admission  Pending Remark" 
+
+msgid "lblruwanttouse" 
+msgstr "Are you Want to Use ?" 
+
+msgid "lblarticlepartymapping" 
+msgstr "Article Party Mapping" 
+
+msgid "lblattachqrtoscannedfile" 
+msgstr "Attach QR to Scanned File" 
+
+msgid "lblattribute2" 
+msgstr "Attribute 2" 
+
+msgid "lblaudittable" 
+msgstr "Audit table" 
+
+msgid "lblattributevalue" 
+msgstr "Attribute Value" 
+
+msgid "lblbank_master" 
+msgstr "Bank Master" 
+
+msgid "lblbiodevicenotworking" 
+msgstr "Biometric Device not working" 
+
+msgid "lblbankadd" 
+msgstr "Bank Address" 
+
+msgid "lblbiodivicenotworkingring" 
+msgstr "Biometric device not working Ring Finger
+" 
+
+msgid "lblbarchart" 
+msgstr "Bar Chart" 
+
+msgid "lblbioreg1" 
+msgstr "Biometric Registration" 
+
+msgid "lblCensusCode" 
+msgstr "Census Code" 
+
+msgid "lblconsiderationamt" 
+msgstr "Consideration Amount" 
+
+msgid "lbldeactivate" 
+msgstr "Deactivate" 
+
+msgid "lbldisplayorder" 
+msgstr "Display Order" 
+
+msgid "lblreceiptno" 
+msgstr "Document Receipt Number" 
+
+msgid "lblunitcategory" 
+msgstr "Unit Category" 
+
+msgid "lblchkavailability" 
+msgstr "Check Availability" 
+
+msgid "lbltokenno_old" 
+msgstr "Token No." 
+
+msgid "lbluserdefineddependency1" 
+msgstr "User Defined Dependency 1" 
+
+msgid "lblbuildingname_ll" 
+msgstr "Building Name" 
+
+msgid "lblactivation" 
+msgstr "Activation" 
+
+msgid "lblchargehandover" 
+msgstr "Charge Handover" 
+
+msgid "lbladjamt" 
+msgstr "Adjusted Amount" 
+
+msgid "lbladvtname" 
+msgstr "Advocate Name" 
+
+msgid "lbldisposaltype" 
+msgstr "Disposal Type" 
+
+msgid "lblalltokenstatus" 
+msgstr "All Token Status" 
+
+msgid "lblalldocumentsizeinmb" 
+msgstr "All Document Size in MB" 
+
+msgid "lblareatosale" 
+msgstr "Area To Sale" 
+
+msgid "lblarticlescreenmapping" 
+msgstr "Article And Optional Screen Mapping" 
+
+msgid "lblauthtype" 
+msgstr "Authentication Type" 
+
+msgid "lblbehaviouralconfiguration" 
+msgstr "Behaviour Configuration" 
+
+msgid "lblbehaviordetails" 
+msgstr "Behaviour Detail" 
+
+msgid "lbldiplaycitizenreg" 
+msgstr "Display on citizen registration form" 
+
+msgid "lblindex2" 
+msgstr "Index 2" 
+
+msgid "lblusedstatus" 
+msgstr "Used Status" 
+
+msgid "lbluser_defined_dependency1_id" 
+msgstr "User Defined Dependency ID" 
+
+msgid "lblcategory" 
+msgstr "Party Category" 
+
+msgid "lbldisposalreview" 
+msgstr "Document Disposal Review" 
+
+msgid "lbldiplayempreg" 
+msgstr "Display on employee registration form" 
+
+msgid "lbldiplayidentifireentry" 
+msgstr "Display on identifier entry form" 
+
+msgid "lbldiplaypartyentry" 
+msgstr "Display on party entry<br>form" 
+
+msgid "lbldiplaywitnessentry" 
+msgstr "Display on witness entry form" 
+
+msgid "lbldocstatusdesc" 
+msgstr "Document Status Description" 
+
+msgid "lblcitizenuser" 
+msgstr "Citizen User" 
+
+msgid "lblcity_ll" 
+msgstr "City" 
+
+msgid "lblcompleted" 
+msgstr "Complete" 
+
+msgid "lblconcurrentjuri" 
+msgstr "Concurrent Jurisdiction" 
+
+msgid "lblconstuctiontye" 
+msgstr "Construction Type" 
+
+msgid "lbldocno" 
+msgstr "Document Number" 
+
+msgid "lbldelayremark" 
+msgstr "Delay Remark" 
+
+msgid "lbldolrusagecode" 
+msgstr "Dolr Usage Code" 
+
+msgid "lbldept" 
+msgstr "Department" 
+
+msgid "lbldependantupon" 
+msgstr "Dependent Upon" 
+
+msgid "lblvaluation" 
+msgstr "Do You Want To Do Valuation" 
+
+msgid "lblenterregno" 
+msgstr "Enter Registration No." 
+
+msgid "lblfixarticlecode" 
+msgstr "Fixed Article Code" 
+
+msgid "lblidentifiername" 
+msgstr "Identifier Name" 
+
+msgid "lblifsccode" 
+msgstr "IFSC Code" 
+
+msgid "lblindexregister" 
+msgstr "Index Register" 
+
+msgid "lblinfoval" 
+msgstr "Information Value" 
+
+msgid "lblisareafield" 
+msgstr "Is Area Field ?" 
+
+msgid "lblisdeclarationattached" 
+msgstr "Is Declaration Attached (Form 60/61)" 
+
+msgid "lblisexemption" 
+msgstr "Is Exemption Under Section 88" 
+
+msgid "lblitemtype" 
+msgstr "Item Type" 
+
+msgid "lbljoindt" 
+msgstr "Joining Date" 
+
+msgid "lbljoinrmk" 
+msgstr "Joining Remark" 
+
+msgid "lblmotherlname_ll" 
+msgstr "Mother's Last Name" 
+
+msgid "lbllangname" 
+msgstr "Language Name" 
+
+msgid "lblzplvl" 
+msgstr "Level 5" 
+
+msgid "lblselectcolumn" 
+msgstr "Select Columns" 
+
+msgid "lblblocklvl" 
+msgstr "Level 6" 
+
+msgid "lbliscompulsory" 
+msgstr "Is Compulsory?" 
+
+msgid "lblSelect" 
+msgstr "Select" 
+
+msgid "maxvaluecheck" 
+msgstr "Max Value Check" 
+
+msgid "lblmenuid" 
+msgstr "Menu Id" 
+
+msgid "lblnewuser" 
+msgstr "New User" 
+
+msgid "lblscanpend" 
+msgstr "Back to Scan Pending Document List" 
+
+msgid "lblbehaviouralpatterns" 
+msgstr "Behaviour Pattern" 
+
+msgid "gov_body_applicable" 
+msgstr "Govt. Body Applicable" 
+
+msgid "lblstampdutycalamt" 
+msgstr "Details" 
+
+msgid "boundries_east_ll" 
+msgstr "East Boundries" 
+
+msgid "lbldisplayflag" 
+msgstr "Display Flag" 
+
+msgid "lblbiodivicenotworkingbaby" 
+msgstr "Biometric device not working Baby Finger
+" 
+
+msgid "lblbiometriclogincapture" 
+msgstr "Biometric fingerprint capture at the time of login." 
+
+msgid "lblolddataflag" 
+msgstr "Adjustment From Old Data ?" 
+
+msgid "lblItemLinkage" 
+msgstr "Item Linkage" 
+
+msgid "lblagreement" 
+msgstr "Agreement" 
+
+msgid "lblamtcounter" 
+msgstr "Amount (Counter)" 
+
+msgid "lblamttobepaid" 
+msgstr "Amount To Be Paid" 
+
+msgid "lbllabeldescription" 
+msgstr "Label Description" 
+
+msgid "lbllunchfromtime" 
+msgstr "Lunch From Time" 
+
+msgid "lblmajourfunseq" 
+msgstr "Major Function Sequence" 
+
+msgid "lblresetpass" 
+msgstr "Reset Password" 
+
+msgid "lblviewrate_old" 
+msgstr "View Rate" 
+
+msgid "lblsameasprmntadrs" 
+msgstr "Same As Permanent Address" 
+
+msgid "lblsaveandnext" 
+msgstr "Save & Next" 
+
+msgid "lblsubmitapplication" 
+msgstr "Submit Data" 
+
+msgid "lblDisplayOrder" 
+msgstr "Display Order" 
+
+msgid "dock_expiry_applicable" 
+msgstr "Dock Expiry Applicable?" 
+
+msgid "lbldocalreadyreleaselist" 
+msgstr "Document Already In Released List" 
+
+msgid "lbldockcheckin" 
+msgstr "Document Check In" 
+
+msgid "lblblocklvlconhead" 
+msgstr "State/ UT Level Configuration" 
+
+msgid "lbllabelid" 
+msgstr "Label Id" 
+
+msgid "lbllabelname" 
+msgstr "Label Name" 
+
+msgid "lblinterfaceurl" 
+msgstr "Interface URL" 
+
+msgid "lblereg" 
+msgstr "E-Registration?" 
+
+msgid "lblesignpending" 
+msgstr "E-sign Pending" 
+
+msgid "lblexternalinterface" 
+msgstr "External Interface" 
+
+msgid "lblmenuname" 
+msgstr "Menu Name" 
+
+msgid "lblotp" 
+msgstr "OTP" 
+
+msgid "lblpasswordloss" 
+msgstr "In Case You Forget Your Password" 
+
+msgid "lblInputItems" 
+msgstr "Input Items" 
+
+msgid "lblinterfacefieldinput" 
+msgstr "Interface Input Type" 
+
+msgid "lblisrangefield" 
+msgstr "Is Range Field ? ( eg. Door No., Survey No.)" 
+
+msgid "lblIsSDItem" 
+msgstr "Is SD Item" 
+
+msgid "lblminorlist" 
+msgstr "Minor List" 
+
+msgid "lblmenuuserpermission" 
+msgstr "Menu User Permission" 
+
+msgid "lbloccupation" 
+msgstr "Occupation" 
+
+msgid "lbloffice" 
+msgstr "Office Master" 
+
+msgid "lblscan" 
+msgstr "Scan" 
+
+msgid "lbluserdep2" 
+msgstr "User Dependency2" 
+
+msgid "lblwebcamdevice" 
+msgstr "Webcam Device" 
+
+msgid "lblaboutus" 
+msgstr "About us" 
+
+msgid "lbltodate" 
+msgstr "To Date" 
+
+msgid "lblfeedepattributes" 
+msgstr "Fee Dependency" 
+
+msgid "lblFeeSubrule" 
+msgstr "Fee Sub Rule" 
+
+msgid "lblno" 
+msgstr "No" 
+
+msgid "lblfee" 
+msgstr "Fee" 
+
+msgid "lblaccept" 
+msgstr "Accept" 
+
+msgid "lblarticalanditemlnk" 
+msgstr "Article And Items Linkage" 
+
+msgid "lblfieldname" 
+msgstr "Field Name" 
+
+msgid "lblfltno" 
+msgstr "Flat No." 
+
+msgid "lblIdentifire" 
+msgstr "Identifier" 
+
+msgid "boundries_south_ll" 
+msgstr "South Boundries" 
+
+msgid "lblUrban" 
+msgstr "Urban" 
+
+msgid "lblvillagemapping" 
+msgstr "Link Village" 
+
+msgid "lbllnkdocno" 
+msgstr "SRO Office Document Number" 
+
+msgid "lbluploadfiles" 
+msgstr "Upload Files" 
+
+msgid "lblreports" 
+msgstr "Reports" 
+
+msgid "lbluploadedfiles" 
+msgstr "Uploaded Files" 
+
+msgid "lblverifypan" 
+msgstr "Verify PAN" 
+
+msgid "lblTDRApplicable" 
+msgstr "Is TDR  Applicable ?" 
+
+msgid "lblviewaudittrial" 
+msgstr "View Audit Trail" 
+
+msgid "lblviewsummer1" 
+msgstr "View Summary 1" 
+
+msgid "lblstampandregfees" 
+msgstr "Stamp And Reg Fees" 
+
+msgid "lblwrittenbypartytype" 
+msgstr "Written By Party Type" 
+
+msgid "lblwrittentoname" 
+msgstr "Written To Name" 
+
+msgid "lblbehaviour" 
+msgstr "Behaviour" 
+
+msgid "lblcitizenname" 
+msgstr "Citizen Name" 
+
+msgid "lbldocumentcategory" 
+msgstr "Document Category" 
+
+msgid "lblgovtof" 
+msgstr "Government Of" 
+
+msgid "lblrelation" 
+msgstr "Relation" 
+
+msgid "lblsuggestion" 
+msgstr "Suggestions" 
+
+msgid "lbltimeslotsinmin" 
+msgstr "Time slot (in minutes)" 
+
+msgid "lblworkflow" 
+msgstr "Work Flow" 
+
+msgid "lblyearinitialization" 
+msgstr "Financial Year Initialization" 
+
+msgid "lblfunaccept4" 
+msgstr "STAMP 3" 
+
+msgid "lbladmstate" 
+msgstr "State" 
+
+msgid "lbladmdivision" 
+msgstr "Division" 
+
+msgid "lbladmdistrict" 
+msgstr "District" 
+
+msgid "lbladmsubdiv" 
+msgstr "Sub Division" 
+
+msgid "lbladmcircle" 
+msgstr "Tehsil" 
+
+msgid "lbladmvillage" 
+msgstr "Village" 
+
+msgid "lblhdayfromdate" 
+msgstr "Holiday From Date" 
+
+msgid "lblinterfierlist" 
+msgstr "Identifier Lists" 
+
+msgid "lbldocumentesign" 
+msgstr "Document Esign" 
+
+msgid "lblselectidentificationtype" 
+msgstr "Select Identifier Type" 
+
+msgid "lblidentity" 
+msgstr "Proof Of Identity " 
+
+msgid "lblfinal_stamp_pending_remark" 
+msgstr "Final stamp pending remark" 
+
+msgid "lblnounits" 
+msgstr "No. Of Units" 
+
+msgid "lblrangeto" 
+msgstr "Range To" 
+
+msgid "lblfeeroundvalue" 
+msgstr "Fee Rounding Value" 
+
+msgid "lblconversionformula" 
+msgstr "Conversion Formula" 
+
+msgid "lblnewuserreg" 
+msgstr "Create User" 
+
+msgid "lblNewRule" 
+msgstr "Create New Rule" 
+
+msgid "lbldocsearch" 
+msgstr "Document Search" 
+
+msgid "lblInfluence" 
+msgstr "Influence" 
+
+msgid "lblseluseridpass" 
+msgstr "Username & Password" 
+
+msgid "lbldockcnt" 
+msgstr "Documents Count" 
+
+msgid "lblstampid" 
+msgstr "Stamp Id" 
+
+msgid "lblappliations" 
+msgstr "Applications" 
+
+msgid "lbllabel" 
+msgstr "Screen Label" 
+
+msgid "lblmenu" 
+msgstr "Menu" 
+
+msgid "lbltimeslot" 
+msgstr "Office Time Slot" 
+
+msgid "lblnameofbar" 
+msgstr "Name Of Bar" 
+
+msgid "lblofcemplinkage" 
+msgstr "Employee And Office Linkage" 
+
+msgid "lblentervaluationid" 
+msgstr "Enter Valuation ID" 
+
+msgid "lblformula1" 
+msgstr "Formula 1" 
+
+msgid "lblheading" 
+msgstr "Heading" 
+
+msgid "lblIdentificationmark" 
+msgstr "Identification Mark" 
+
+msgid "lblmajorfunction" 
+msgstr "Major Function" 
+
+msgid "lblidentitydetails" 
+msgstr "Identity Details" 
+
+msgid "lblformlabel" 
+msgstr "Label Name" 
+
+msgid "lblLevel5" 
+msgstr "Level 5" 
+
+msgid "lblenterroleid" 
+msgstr "Enter Role ID" 
+
+msgid "lblfatherfullname" 
+msgstr "Father's Full Name" 
+
+msgid "lblFeeCalcNo" 
+msgstr "Fee Calculation No." 
+
+msgid "lblauthenticationtypeid" 
+msgstr "Authentication Type ID" 
+
+msgid "lblfeemaster" 
+msgstr "Fee Master" 
+
+msgid "lblfeeroundingflag" 
+msgstr "Fee Rounding Flag" 
+
+msgid "lblfeetype" 
+msgstr "Fee Type" 
+
+msgid "lblbankbranch" 
+msgstr "Bank Branch" 
+
+msgid "lblbankname" 
+msgstr "Bank Name" 
+
+msgid "btnnext" 
+msgstr "Next" 
+
+msgid "lblPrint" 
+msgstr "Print" 
+
+msgid "lbltablename" 
+msgstr "Table Name" 
+
+msgid "lblselectallmodules" 
+msgstr "Select All Modules" 
+
+msgid "lblsavebtn" 
+msgstr "SAVE" 
+
+msgid "valuation_applicable" 
+msgstr "Valuation Applicable?" 
+
+msgid "lblverifyuid" 
+msgstr "Verify UID" 
+
+msgid "lblwingno" 
+msgstr "Wing No" 
+
+msgid "lblunitdescription_ll" 
+msgstr "Unit Description" 
+
+msgid "lblbtnupdate" 
+msgstr "Update" 
+
+msgid "lblbtnuploadupdate" 
+msgstr "Upload/Update" 
+
+msgid "lblreason" 
+msgstr "Reason" 
+
+msgid "llblwitness" 
+msgstr "Witness" 
+
+msgid "lblproid" 
+msgstr "Property ID" 
+
+msgid "lblusageitemhead" 
+msgstr "Property Item" 
+
+msgid "lblitemlist" 
+msgstr "Property Item" 
+
+msgid "lblpromashead" 
+msgstr "Property Master" 
+
+msgid "lblpropertyrate" 
+msgstr "Property Rate" 
+
+msgid "lblpropertyattributepur" 
+msgstr "Purchaser Property Attribute" 
+
+msgid "lblphoto" 
+msgstr "Photo" 
+
+msgid "lbluniquepropnu" 
+msgstr "Unique Property No." 
+
+msgid "lbldisposalsummeryreport" 
+msgstr "Disposal Summary Report" 
+
+msgid "lbluserdep1" 
+msgstr "User Dependency1" 
+
+msgid "lbltan" 
+msgstr "TAN" 
+
+msgid "lblselvillage" 
+msgstr "Select Village" 
+
+msgid "lblsrochecklistdetails" 
+msgstr "SRO Checklist Details" 
+
+msgid "lblurbanrural" 
+msgstr "Urban/Rural" 
+
+msgid "lblsubcat" 
+msgstr "Usage Sub Category" 
+
+msgid "lbluserdefineddependency2" 
+msgstr "User Defined Dependency 2" 
+
+msgid "lblpartymname_ll" 
+msgstr "Middle Name" 
+
+msgid "boundries_west_ll" 
+msgstr "West Boundries" 
+
+msgid "lbllabeldescen" 
+msgstr "Label Description (English)" 
+
+msgid "lblpresentationno" 
+msgstr "Presentation Number" 
+
+msgid "lblarea" 
+msgstr "Area " 
+
+msgid "lblpartyaddress" 
+msgstr "Party Address" 
+
+msgid "lbldoyouauthorized" 
+msgstr "Do you want to authorized?" 
+
+msgid "lblregdetails" 
+msgstr "Document Registration Details" 
+
+msgid "lblmainofc" 
+msgstr "Document Registered Office Details (Main)" 
+
+msgid "lblvisitofc" 
+msgstr "Document Entered Office Details (Visit)" 
+
+msgid "lblotherpropdetails" 
+msgstr "Other Property Details" 
+
+msgid "lblpropattributes" 
+msgstr "Property Attributes" 
+
+msgid "lblpropfinaldetails" 
+msgstr "Property Final Details" 
+
+msgid "lblpropdetails" 
+msgstr "Property Details" 
+

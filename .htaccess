@@ -1,0 +1,17 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteRule ^$ app/webroot/ [L]
+	RewriteRule (.*) app/webroot/$1 [L]
+
+        Options -Indexes
+
+        RewriteCond %{REQUEST_METHOD} ^TRACE 
+        RewriteRule .* - [F]
+
+        Header set X-Content-Type-Options nosniff
+        Header unset X-Powered-By
+        Header set X-XSS-Protection "1; mode=block"
+     
+        Header set X-Permitted-Cross-Domain-Policies "none"
+        Header set X-Frame-Options "DENY"
+</IfModule>
